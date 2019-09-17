@@ -1,0 +1,83 @@
+---
+title: "1000 songs dataset and spotify exploration"
+output: 
+  github_document:
+    toc: true
+---
+
+```{r importdata}
+
+library(tidyverse)
+SpotifyAndAnnotations <- read_csv("../datasets/AutoJoined1000SongsSpotify.csv")
+
+library(visdat)
+
+vis_dat(SpotifyAndAnnotations)
+```
+
+# Visual Explorations 
+Explore simple correlations with 1000songs annotations and spotiufy data 
+
+## Valence
+
+```{r valence}
+library(viridis)
+library(ggpubr)
+library(ggExtra)
+
+valecneexplore <- ggplot(data = SpotifyAndAnnotations,
+                         mapping = aes(x = valence, 
+                                       y = valence_1000songs,
+                                       fill = tempo,
+                                       color = tempo,
+                                       #shape = mode_name,
+                                       )) + 
+  geom_point(size = 3.5, alpha = .8) +
+  geom_smooth(method=lm, se=TRUE, fullrange=TRUE) + 
+  scale_color_viridis() + 
+  scale_fill_viridis() +
+  stat_cor(method = "pearson", 
+           label.x = .4
+           ) + 
+  ylab("1000 songs dataset valence rating") + 
+  xlab("Spotify valence metric") + 
+  theme_classic() + 
+  ggtitle("Correlating worker ratings with spotify metrtics", subtitle = "Valence Ratings") + 
+  theme_classic() +
+  theme(plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = .5)) 
+
+valecneexplore
+
+
+```
+
+## Arousal
+
+```{r arousal}
+arousalexplore <- ggplot(data = SpotifyAndAnnotations,
+                         mapping = aes(x = energy, 
+                                       y = arousal_1000songs,
+                                       fill = tempo,
+                                       color = tempo,
+                                       #shape = mode_name,
+                                       )) + 
+  geom_point(size = 3.5, alpha = .8) +
+  geom_smooth(method=lm, se=TRUE, fullrange=TRUE) + 
+  scale_color_viridis() + 
+  scale_fill_viridis() +
+  stat_cor(method = "pearson", 
+           label.x = .4
+           ) + 
+  ylab("1000 songs dataset arousal rating") + 
+  xlab("Spotify energy metric") + 
+  ggtitle("Correlating worker ratings with spotify metrtics", subtitle = "Arousal Ratings") + 
+  theme_classic() +
+  theme(plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = .5))
+
+arousalexplore
+```
+
+
+

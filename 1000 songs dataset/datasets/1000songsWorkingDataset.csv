@@ -1,4 +1,4 @@
-song_id,mean_arousal,std_arousal,mean_valence,std_valence,file_name,Artist,Song_title,start of the segment (min.sec),end of the segment (min.sec),Genre,Mediaeval 2013 set
+song_id,arousal_1000songs,std_valence_1000songs,valence_1000songs,std_valence,file_name,Artist,Song_title,start of the segment (min.sec),end of the segment (min.sec),Genre,Mediaeval 2013 set
 2,3.1,0.99443,3,0.66667,2.mp3,The New Mystikal Troubadours,Tonight  A Lonely Century,0.48,1.33,Blues,development
 3,3.5,1.8409,3.3,1.7029,3.mp3,Kevin MacLeod,DD Groove,0.36,1.21,Blues,evaluation
 4,5.7,1.4944,5.5,1.7159,4.mp3,Kevin MacLeod,Slow Burn,1.29,2.14,Blues,development
