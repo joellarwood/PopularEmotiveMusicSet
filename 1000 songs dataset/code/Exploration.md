@@ -4,6 +4,9 @@
   - [Visual Explorations](#visual-explorations)
       - [Valence](#valence)
       - [Arousal](#arousal)
+  - [Plotting valence and arousal](#plotting-valence-and-arousal)
+      - [1000 songs annotation](#songs-annotation)
+      - [Spotify data](#spotify-data)
 
 ``` r
 library(tidyverse)
@@ -148,3 +151,63 @@ arousalexplore
     ## Warning: Removed 578 rows containing missing values (geom_point).
 
 ![](Exploration_files/figure-gfm/arousal-1.png)<!-- -->
+
+# Plotting valence and arousal
+
+## 1000 songs annotation
+
+``` r
+affectgrid1000songs <- ggplot(data = SpotifyAndAnnotations,
+                              mapping = aes(y = arousal_1000songs,
+                                            x = valence_1000songs,
+                                            fill = tempo,
+                                            color = tempo, 
+                                            shape = mode_name)) +
+geom_point(size = 2, alpha = .8) +
+  scale_color_viridis() + 
+  scale_fill_viridis() +
+  geom_vline(xintercept = 5) +
+  geom_hline(yintercept = 5) + 
+  coord_cartesian(xlim = c(1, 9), ylim = c(1,9)) +
+  ylab("Arousal Rating") + 
+  xlab("Valence Rating") + 
+  ggtitle("Affect grid using 1000 songs annotations") + 
+  theme_classic() +
+  theme(plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = .5))  
+
+affectgrid1000songs
+```
+
+    ## Warning: Removed 578 rows containing missing values (geom_point).
+
+![](Exploration_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+
+## Spotify data
+
+``` r
+affectgridspotify <- ggplot(data = SpotifyAndAnnotations,
+                              mapping = aes(y = energy,
+                                            x = valence,
+                                            fill = tempo,
+                                            color = tempo, 
+                                            shape = mode_name)) +
+geom_point(size = 2, alpha = .8) +
+  scale_color_viridis() + 
+  scale_fill_viridis() +
+  geom_vline(xintercept = .5) +
+  geom_hline(yintercept = .5) + 
+  coord_cartesian(xlim = c(0, 1), ylim = c(0,1)) +
+  ylab("Energy Metric ") + 
+  xlab("Valence Metric") + 
+  ggtitle("Affect grid using Spotify Metrics") + 
+  theme_classic() +
+  theme(plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = .5))  
+
+affectgridspotify
+```
+
+    ## Warning: Removed 577 rows containing missing values (geom_point).
+
+![](Exploration_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
