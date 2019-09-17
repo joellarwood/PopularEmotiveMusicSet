@@ -1,0 +1,746 @@
+track.name,Song_title.x,Artist,Genre,file_name,song_id,danceability,energy,key,key_name,loudness,mode,mode_name,speechiness,acousticness,instrumentalness,liveness,valence,valence_1000songs,std_valence_1000songs,arousal_1000songs,std_arousal_1000songs,tempo,track.id,track.preview_url,track.uri
+Nothing Much,Nothing Much,My Bubba & Mi,Blues,5.mp3,5,0.488,0.251,11,B,-12.351,1,major,0.0273,0.827,2.11e-5,0.242,0.575,5.3,1.9465,4.4,2.1187,99.639,32xfcxu2gKRVmDopzlmnUc,https://p.scdn.co/mp3-preview/458833269a9a9684b84930c951c0c557c3df146f?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:32xfcxu2gKRVmDopzlmnUc
+Oh Kiss No,Oh Kiss No,My Bubba & Mi,Blues,13.mp3,13,0.639,0.209,0,C,-12.915,0,minor,0.0332,0.785,3.68e-6,0.373,0.211,4,1.7638,3.2,1.4757,87.412,1ocORq8GJBUAIJdi8QPgme,https://p.scdn.co/mp3-preview/13d93d5ee4c1e88e6d59d420a08962176ac97639?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1ocORq8GJBUAIJdi8QPgme
+Vultures,Vultures,WHO'S PANDA,Blues,19.mp3,19,0.56,0.856,8,G#,-6.028,1,major,0.0511,0.0477,9.38e-6,0.0785,0.394,4.3,2.0028,5.9,1.7288,125.024,2bhwPUsgts9pmZIbMvlHZV,https://p.scdn.co/mp3-preview/ce65479e9db41aaa581691d3471eca3f56f160c6?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2bhwPUsgts9pmZIbMvlHZV
+Afro,Afro,The Jon Spencer Blues Explosion,Blues,37.mp3,37,0.599,0.847,6,F#,-5.818,0,minor,0.0477,0.00304,0.809,0.0704,0.916,5.3,2.1108,6.6,2.2211,124.528,1X5DB8JnEDPiPskaxLIbfk,https://p.scdn.co/mp3-preview/6f8c5b0403823e368a6e98fe2a20bce1061ca047?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1X5DB8JnEDPiPskaxLIbfk
+Ramblin' Rose,Ramblin' Rose,Barrence Whitfield and The Savages,Blues,39.mp3,39,0.34,0.798,4,E,-10.599,1,major,0.0722,0.0606,0.00131,0.967,0.745,5.4,2.5033,7.3,1.9465,134.828,63HsldLyUvbyaUkv8DcEaQ,https://p.scdn.co/mp3-preview/43d80663664f253a67b2aec42ffd60eacb4d7cfe?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:63HsldLyUvbyaUkv8DcEaQ
+Broken,Broken,Fit and the Conniptions,Blues,54.mp3,54,0.491,0.142,0,C,-13.427,1,major,0.0387,0.127,0.0264,0.103,0.136,3.3,1.7029,3.1,1.6633,134.277,16tz1QwDkta2kNWQFrpNxh,https://p.scdn.co/mp3-preview/22e19517ae64e6ffa18f6f07cd7cfbf908accef6?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:16tz1QwDkta2kNWQFrpNxh
+Baby Please Don't Go,Baby Please Don't Go,Big Bill Broonzy,Blues,55.mp3,55,0.702,0.118,7,G,-17.211,1,major,0.043,0.946,0.00134,0.122,0.595,5.4,1.1738,5.8,1.3984,138.574,09OgC4U04x6DhzqEr9AdRy,https://p.scdn.co/mp3-preview/783960f17eda87581f75133400a13865e0faa885?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:09OgC4U04x6DhzqEr9AdRy
+Fafa,Fafa,Vieux Farka Touré,Blues,56.mp3,56,0.435,0.606,10,A#,-5.614,1,major,0.0342,0.724,0.277,0.18,0.374,5.8,1.4757,6.4,1.5055,92.749,67raFTzuOzVFZyEYxbiMxL,https://p.scdn.co/mp3-preview/c032485fe999389aada2365d86d77f5d5a0064d1?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:67raFTzuOzVFZyEYxbiMxL
+Nothing's Any Fun Any More,Nothing's Any Fun Any More,Fit and the Conniptions,Blues,58.mp3,58,0.533,0.275,11,B,-10.253,1,major,0.0435,0.0538,0.92,0.263,0.224,3.4,1.6465,3.3,1.6364,159.904,2cLDzWMrkDtzdyk8zD3n9B,https://p.scdn.co/mp3-preview/33d3baf339141e0f9f23907e194e39010ec53ffa?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2cLDzWMrkDtzdyk8zD3n9B
+Bellbottoms,Bellbottoms,The Jon Spencer Blues Explosion,Blues,65.mp3,65,0.391,0.883,2,D,-4.467,1,major,0.216,0.0101,0.1,0.352,0.476,5.8,1.9322,6.4,1.5055,116.968,7sC9FifCXZHgjTAjFO1ykA,NA,spotify:track:7sC9FifCXZHgjTAjFO1ykA
+Roulette,Roulette,Lorenzo's Music,Blues,80.mp3,80,0.725,0.479,9,A,-6.705,0,minor,0.0315,0.0572,0.00434,0.094,0.796,5.1,1.4491,6,1.4142,83.987,0RB0xia9sqTijx5RBtGdLP,https://p.scdn.co/mp3-preview/d9768a4542465149323bdcd2463d7e810e496ab2?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0RB0xia9sqTijx5RBtGdLP
+Swallow Me Up,Swallow Me Up,Mount Carmel,Blues,84.mp3,84,0.2,0.84,4,E,-7.469,0,minor,0.0778,0.0342,0.321,0.155,0.597,5.6,1.8379,5.9,2.1318,163.289,5KYUZMPeH7jPslrmcvwqOQ,https://p.scdn.co/mp3-preview/179b2a351a1c5b47d7b2d82dc61e520c330c556c?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5KYUZMPeH7jPslrmcvwqOQ
+Old Strange,Old Strange,Steve Gunn,Blues,95.mp3,95,0.311,0.389,0,C,-12.867,1,major,0.0273,0.804,0.708,0.107,0.627,4.6,2.319,3.3,1.9465,174.491,1D4Vky2ahLps2vwB41MAse,https://p.scdn.co/mp3-preview/8a0e465efe20cd6ca935f1ddcf76ffed46788892?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1D4Vky2ahLps2vwB41MAse
+Electricity,Electricity,Marisa Anderson,Blues,102.mp3,102,0.4,0.239,2,D,-14.806,1,major,0.0322,0.744,0.882,0.0782,0.0695,5.4,1.6465,6.5,0.97183,142.7,7lmEdG3TLqNpbjT6NPVkcL,https://p.scdn.co/mp3-preview/b9ff281924962eaadd8fd978fc0f6d9eee218feb?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7lmEdG3TLqNpbjT6NPVkcL
+Girl Might Do,Girl Might Do,mojo monkeys,Blues,105.mp3,105,0.745,0.75,5,F,-6.878,1,major,0.0237,0.00519,0.0159,0.398,0.842,5,1.4907,6.5,1.5092,107.942,30VcMMekXm5eMPAufzK3ci,https://p.scdn.co/mp3-preview/55423fa6252c1fab807c74304c58773568d53a1d?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:30VcMMekXm5eMPAufzK3ci
+Wander In A Dream,Wander In A Dream,Fit and the Conniptions,Blues,106.mp3,106,0.478,0.283,4,E,-8.628,0,minor,0.0305,0.506,0.0112,0.12,0.365,3.3,1.2517,4.6,1.5776,143.696,1cuLKiCr5mbYMlevxw1NLE,https://p.scdn.co/mp3-preview/ded80d6efeb472a5e4683b476007e739fa2a6da9?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1cuLKiCr5mbYMlevxw1NLE
+Drop Down Low,Drop Down Low,Jawbone,Blues,111.mp3,111,0.767,0.543,7,G,-3.977,1,major,0.0434,0.152,0.853,0.0978,0.786,5.3,1.4944,5.3,1.3375,99.82,1HIoDx9T6mIOtUbLA1ZwiG,https://p.scdn.co/mp3-preview/af48ef73856b306def03d0200139db65919e03e5?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1HIoDx9T6mIOtUbLA1ZwiG
+Mistress Song,Mistress Song,Fit and the Conniptions,Blues,116.mp3,116,0.567,0.507,9,A,-6.941,0,minor,0.118,0.788,2.95e-4,0.0684,0.192,3.9,1.2867,4.4,1.6465,78.749,2oVHVi0m6koSslwBcTHQgh,https://p.scdn.co/mp3-preview/fbc9074a993de7fd04d8df45fecefb35f0f982b4?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2oVHVi0m6koSslwBcTHQgh
+Ethio Song,Ethio Song,Amen Dunes,Blues,119.mp3,119,0.311,0.649,3,D#,-5.677,0,minor,0.0328,0.195,0.614,0.0696,0.36,3.2,1.3166,4.3,2.406,120.658,3KhW7PZVVK1c6FO4DqdVXi,https://p.scdn.co/mp3-preview/e53c8953a5c2fc8f0e383ba35f0aa3f4a9953137?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3KhW7PZVVK1c6FO4DqdVXi
+Mr. Franklin,Mr Franklin,Steve Gunn,Blues,120.mp3,120,0.517,0.41,2,D,-10.353,0,minor,0.027,0.236,0.331,0.269,0.556,5,1.6997,3.8,1.6865,103.075,3tlGHRFZMQXTM6QzCGLtFS,https://p.scdn.co/mp3-preview/661f0137fa371d80e59b70e161003b1926686d64?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3tlGHRFZMQXTM6QzCGLtFS
+Sunset,Sunset,Evgeny Grinko,Classical,127.mp3,127,0.209,0.1,0,C,-21.228,1,major,0.0611,0.995,0.963,0.112,0.94,5.3,1.767,3,1.9437,198.596,5mKBX7FI3fM4xbbOEEc7rV,https://p.scdn.co/mp3-preview/07d258cc9e8dd7107c9be82e7cec4550f0c13123?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5mKBX7FI3fM4xbbOEEc7rV
+Veloma,Veloma,Fabrizio Paterlini,Classical,128.mp3,128,0.302,0.12,7,G,-21.272,0,minor,0.037,0.98,0.887,0.0874,0.218,4,1.633,3.6,1.5055,108.008,7JAS7ebzk6QH4XEamLH9wS,https://p.scdn.co/mp3-preview/c71b22c27d2304c7c4203c497ea5bbf980f41c74?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7JAS7ebzk6QH4XEamLH9wS
+Sneeuwland,Sneeuwland,Oskar Schuster,Classical,129.mp3,129,0.752,0.43,2,D,-16.661,0,minor,0.0322,0.784,0.938,0.0785,0.407,6,1.7638,4.2,1.8135,103.489,1GzVIEDYN2lYzePJGFoRkz,https://p.scdn.co/mp3-preview/0010589961fd311fedeafc44165a8b6027344924?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1GzVIEDYN2lYzePJGFoRkz
+Summers Coming,Summers Coming,Dexter Britain,Classical,134.mp3,134,0.648,0.658,6,F#,-13.603,0,minor,0.0368,0.0159,0.895,0.103,0.461,6,1.2472,5.4,1.8379,93.991,6b2la5Qxqi70AvL9gAhlYM,https://p.scdn.co/mp3-preview/75571d4929a336f8ba796eb144bd4ff80c8fb331?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6b2la5Qxqi70AvL9gAhlYM
+Fourth,Fourth,Mystic Morrison Visions,Classical,136.mp3,136,0.411,0.713,2,D,-7.363,1,major,0.0437,0.0566,0.5,0.0628,0.75,6.2,1.1353,6.8,1.3984,133.547,1RroIksY4qQfBg1kr2LBkW,https://p.scdn.co/mp3-preview/07ceb32ff6a76642646881744cc5228b5151bb53?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1RroIksY4qQfBg1kr2LBkW
+The Passing of Time,The Passing of Time,krackatoa,Classical,144.mp3,144,0.209,0.223,0,C,-14.27,1,major,0.0322,0.489,0.259,0.135,0.149,4.7,0.94868,3.4,1.1738,90.807,3BEUOzkEnKY5LJzrC0R7DJ,https://p.scdn.co/mp3-preview/0fc240965bb67a94144fbaaa3f8c1e91a1ee0615?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3BEUOzkEnKY5LJzrC0R7DJ
+The Forest and the Trees,The Forest and the Trees,Kevin MacLeod,Classical,145.mp3,145,0.279,0.0759,9,A,-18.833,1,major,0.0474,0.994,0.174,0.142,0.101,5.4,2.0111,3.1,2.0248,129.941,5FDNEmra9OD3rEO8gCQ2KD,https://p.scdn.co/mp3-preview/d5e9060a080a790a2eaa190a3c96f6022856c2ad?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5FDNEmra9OD3rEO8gCQ2KD
+Gagool,Gagool,Kevin MacLeod,Classical,149.mp3,149,0.167,0.113,3,D#,-22.927,1,major,0.037,0.877,0.866,0.13,0.0374,3.1,2.0248,3.4,1.9551,90.921,6Rb7y7Vut4CVBrxrk7yoWQ,https://p.scdn.co/mp3-preview/fbbdbfc25dd18cac524a6899b73f31f28a4f31d4?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6Rb7y7Vut4CVBrxrk7yoWQ
+The Tea Party,The Tea Party,Dexter Britain,Classical,152.mp3,152,0.52,0.369,11,B,-16.854,0,minor,0.0349,0.854,0.958,0.124,0.704,5.6,1.5055,4.4,1.7127,151.941,3OQ06WdSzmRPUCUS1FIq0F,https://p.scdn.co/mp3-preview/d4e727597af9bf2c45394f15b6571afa9d82f650?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3OQ06WdSzmRPUCUS1FIq0F
+Blizzard,Blizzard,Evgeny Grinko,Classical,153.mp3,153,0.198,0.148,9,A,-22.677,0,minor,0.0421,0.991,0.922,0.101,0.0922,4.5,1.7795,3.9,2.0248,75.776,2FOwnedhWyYBE7gH5mHHcn,https://p.scdn.co/mp3-preview/d22d7dc90ff05e0133ee16ac2c7beb51f76a0c01?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2FOwnedhWyYBE7gH5mHHcn
+Opening Doors,Opening Doors,Jamie Evans,Classical,157.mp3,157,0.531,0.131,0,C,-15.521,1,major,0.0385,0.748,0.817,0.112,0.11,6.2,1.1353,4,1.7638,107.014,0rEJq3t9y9aSq0s55nGctz,https://p.scdn.co/mp3-preview/33aea52e860edb24536f4eb86f2fc42fc4926e88?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0rEJq3t9y9aSq0s55nGctz
+Le bal de Rémy,Le bal de Rémy,Circus Marcus,Classical,162.mp3,162,0.366,0.396,7,G,-12.988,0,minor,0.0453,0.95,0.787,0.0659,0.15,4.6,1.075,3.7,1.767,91.464,1hznyeWXgDNXvqZZhmnSh6,https://p.scdn.co/mp3-preview/2eb5be2158db161d520a1b6f3f13dc2783b78718?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1hznyeWXgDNXvqZZhmnSh6
+That Kid in Fourth Grade Who Really Liked the Denver Broncos,That Kid in Fourth Grade Who Really Liked the Denver Broncos,Chris Zabriskie,Classical,171.mp3,171,0.45,0.00602,7,G,-30.159,1,major,0.0561,0.996,0.953,0.0873,0.0394,3.6,1.8379,2.1,0.73786,71.247,1WMN9O3A5fYqP84fWnDrxl,https://p.scdn.co/mp3-preview/92ab7767c03213e1558561b8264ba3dc0d73aeca?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1WMN9O3A5fYqP84fWnDrxl
+The Temperature of the Air on the Bow of the Kaleetan,The Temperature of the Air on the Bow of the Kaleetan,Chris Zabriskie,Classical,172.mp3,172,0.328,0.088,10,A#,-18.958,0,minor,0.033,0.977,0.907,0.105,0.0369,5,2.357,3.8,2.3476,68.337,5HhAUQK8AqWpZXgkpgfLoI,https://p.scdn.co/mp3-preview/4919292846afc09b19f98b60a0443e1f09b28895?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5HhAUQK8AqWpZXgkpgfLoI
+O Come O Come Emmanuel,O Come O Come Emmanuel,IKOS David Clifton with the choirs of Peterborough Cathedral,Classical,177.mp3,177,0.52,0.696,4,E,-5.64,0,minor,0.0317,0.263,3.24e-4,0.0637,0.52,5.6,1.8379,4.8,1.4757,100.991,7BCyRaH9nTtD1wfePXjomO,https://p.scdn.co/mp3-preview/f09fff5f92a76bd689dbb4fc253f6b6541939e5c?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7BCyRaH9nTtD1wfePXjomO
+Uno Is Walking,Uno Is Walking,K-Conjog,Classical,178.mp3,178,0.224,0.583,6,F#,-9.189,0,minor,0.0386,0.284,0.00177,0.351,0.13,3.7,2.2136,2.8,2.201,90.088,08mIDUfPBfMJaLtWzvIWCT,https://p.scdn.co/mp3-preview/3846be9cdb17a7c5db20f8f9f9711d0e3a36ea4a?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:08mIDUfPBfMJaLtWzvIWCT
+Ghost Dance,Ghost Dance,Kevin MacLeod,Classical,185.mp3,185,0.373,0.0575,2,D,-21.19,0,minor,0.0388,0.943,0.831,0.0721,0.118,4.6,1.4298,4.9,2.0248,99.93,7bE72erlF9mbilalBA8GyV,https://p.scdn.co/mp3-preview/861cc7fec86e8a6fc8af9a51da91198aa236507e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7bE72erlF9mbilalBA8GyV
+Other Child Room,Other Child Room,Evgeny Grinko,Classical,187.mp3,187,0.702,0.0756,2,D,-21.106,0,minor,0.0658,0.991,0.879,0.0911,0.42,3.7,2.0575,2.5,1.9579,160.053,7w2N0OHlJg7Z5oh7WVE5dM,https://p.scdn.co/mp3-preview/6ab8f0846758a9e2deaf1a314b7e9e50e79d63fa?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7w2N0OHlJg7Z5oh7WVE5dM
+Virtutes Instrumenti,Virtutes Instrumenti,Kevin MacLeod,Classical,190.mp3,190,0.145,0.0627,7,G,-17.584,1,major,0.0424,0.984,0.882,0.121,0.0383,3.1,1.3703,2.8,1.9322,138.625,5vyGsuzNwd0yp7gc8UBdB3,https://p.scdn.co/mp3-preview/a85b8ccca5e63a98dab9731a9055785dc7752841?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5vyGsuzNwd0yp7gc8UBdB3
+Reminiscence,Reminiscence,Jamie Evans,Classical,194.mp3,194,0.374,0.112,5,F,-22.133,1,major,0.0446,0.995,0.913,0.105,0.111,4.7,1.3375,2.7,1.8886,89.897,1tszn6l2qFsgUMOrLX5kcy,https://p.scdn.co/mp3-preview/5d24f8cb6f8cec9e24656286e63f083dc43dd845?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1tszn6l2qFsgUMOrLX5kcy
+Les crocodiles mangent aussi les bonshommes Wizzards,Les crocodiles mangent aussi les bonshommes Wizzards,Circus Marcus,Classical,201.mp3,201,0.609,0.104,2,D,-19.541,1,major,0.0998,0.944,0.877,0.127,0.259,4.8,1.6193,3.7,1.567,106.225,3wUdAH0hdMTicFs2pWtjjg,https://p.scdn.co/mp3-preview/821ba5abd19b3d9fb7c0124b2e1f1cd1fb51b7c7?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3wUdAH0hdMTicFs2pWtjjg
+After Christmas,After Christmas,Dexter Britain,Classical,211.mp3,211,0.447,0.103,8,G#,-23.285,0,minor,0.0295,0.908,0.94,0.109,0.0543,4.9,0.8756,3.1,1.2867,84.975,06Qy3NWIAjN3FeVMuMa47n,https://p.scdn.co/mp3-preview/d858ea1ced1c6109f61fe0b4626ec54733af157c?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:06Qy3NWIAjN3FeVMuMa47n
+Haunted,Haunted,Jamie Evans,Classical,217.mp3,217,0.292,0.0577,9,A,-16.003,0,minor,0.0401,0.964,0.824,0.0796,0.0875,4.8,1.6865,3.5,1.6499,137.874,2sDqcuuCkOCPqtJ7wHHBKX,https://p.scdn.co/mp3-preview/4fcd6278560bfe985b6d11a69b16213077a3d20c?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2sDqcuuCkOCPqtJ7wHHBKX
+Gammelvals,Gammelvals,Puh,Classical,240.mp3,240,0.437,0.608,11,B,-7.982,1,major,0.0458,0.292,0.769,0.445,0.602,6.6,1.075,6.4,1.4298,105.422,4zycZUtdp5ZbVFBhoLGlW4,https://p.scdn.co/mp3-preview/b0339d1beb57516a993f40ba8d56acb7b78d8464?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4zycZUtdp5ZbVFBhoLGlW4
+House Rent Jump,House Rent Jump,Peter Case,Country,264.mp3,264,0.334,0.93,0,C,-7.75,1,major,0.137,0.0309,0.0814,0.279,0.686,5.5,1.5811,5.3,1.3375,168.145,6FqWiWqPizSBRfz1hSMp6o,https://p.scdn.co/mp3-preview/3fb460f6140899864f6e3c3d0eace3d27b9be29d?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6FqWiWqPizSBRfz1hSMp6o
+Candy,Candy,Caravan of Thieves,Country,296.mp3,296,0.658,0.53,1,C#,-7.214,1,major,0.071,0.813,0,0.106,0.493,5.7,1.3375,5.9,0.99443,85.984,5yijHp4XqE50obfsgUBGba,https://p.scdn.co/mp3-preview/e9d9dd3fd32e50b92c73f58db4bb648f0d2e58f7?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5yijHp4XqE50obfsgUBGba
+My Friend,My Friend,Wooden Ambulance,Country,297.mp3,297,0.323,0.436,8,G#,-9.483,1,major,0.029,0.307,0.839,0.113,0.201,3.6,1.4298,3.1,1.3703,138.971,2FsbtMmE48yy5OSCwfT5QH,https://p.scdn.co/mp3-preview/df0d2b4a26eb4bdb8bc952da6ff71fb699974259?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2FsbtMmE48yy5OSCwfT5QH
+Obvious,Obvious,Moore & Sons,Country,298.mp3,298,0.56,0.493,4,E,-10.419,1,major,0.0357,0.437,9.44e-5,0.146,0.57,5.4,1.7764,4,1.8257,71.926,6hvdpynhWy1ob4FsdKRx9B,https://p.scdn.co/mp3-preview/f37f56133151a7e4711ede453371aa4889c8ceea?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6hvdpynhWy1ob4FsdKRx9B
+What I Found,What I Found,The Brought Low,Country,300.mp3,300,0.177,0.962,4,E,-4.881,1,major,0.0701,0.00283,0.00155,0.242,0.702,4.5,1.9579,6.8,1.1353,168.258,4JAp0iBUXnA7QC1No82c1x,https://p.scdn.co/mp3-preview/b65f666af3882e1c66ccaad038c56a6d10b5c3b3?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4JAp0iBUXnA7QC1No82c1x
+Rose Room,Rose Room,Jeremy Cohen & Matt Munisteri,Country,304.mp3,304,0.531,0.189,8,G#,-18.532,1,major,0.0482,0.72,0.0646,0.0932,0.79,4.6,1.7764,3.8,1.8738,94.128,21ZM0KeAJYeoeQTiDFptmP,https://p.scdn.co/mp3-preview/976456583b8ab525e0e9891da4a27db1aaefd4b5?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:21ZM0KeAJYeoeQTiDFptmP
+Riding Down To Mexico,Riding Down To Mexico,Rex Allen,Country,305.mp3,305,0.709,0.299,7,G,-14.696,1,major,0.0455,0.906,0.00127,0.11,0.784,6.8,1.0328,6.4,1.1738,129.058,0SMCrhJbrir0pBg6ghyP9u,https://p.scdn.co/mp3-preview/6c8e425c9b532561728256ef1ea7206eb9c28169?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0SMCrhJbrir0pBg6ghyP9u
+Ghostwriter,Ghostwriter,Caravan of Thieves,Country,311.mp3,311,0.685,0.662,7,G,-6.04,1,major,0.0511,0.396,4.58e-6,0.0671,0.817,6.9,0.99443,5.8,1.6865,135.8,4MDPPDgEyvvTBXjA4om67x,https://p.scdn.co/mp3-preview/6c6f6eff1c155b6735e0a43356e25b7148e5c1fe?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4MDPPDgEyvvTBXjA4om67x
+Ox Driving Song,Ox Driving Song,Austin Leonard Jones,Country,314.mp3,314,0.579,0.697,2,D,-6.845,1,major,0.0598,0.398,1.2e-4,0.231,0.964,5.9,1.2867,5.8,1.2293,146.815,1C6sMPFUuI87mJAXeLLwvL,https://p.scdn.co/mp3-preview/086bee3fd7e5fb240a2d6df9615c1b89a2cab6ff?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1C6sMPFUuI87mJAXeLLwvL
+The River,The River,Kenny Tudrick,Country,316.mp3,316,0.523,0.353,7,G,-10.798,1,major,0.0303,0.339,0.00129,0.322,0.217,3.5,2.0683,2.8,1.3984,114.012,6C0oKwZduayza7Cy05LCc0,https://p.scdn.co/mp3-preview/a9c79f0f606db34ec5fd63dd072ff9b2e5b2b77f?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6C0oKwZduayza7Cy05LCc0
+I Wanna Say Hello,I Wanna Say Hello,Pee Wee King,Country,322.mp3,322,0.725,0.424,0,C,-11.224,1,major,0.0677,0.919,0,0.156,0.924,7.6,1.075,6.1,1.2867,137.314,7MwPFz1EtqAN4IzK8FhSHk,https://p.scdn.co/mp3-preview/a60aa056dbdd80fb70008c1dc9ca02cdb803b73e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7MwPFz1EtqAN4IzK8FhSHk
+Birmingham Jail,Birmingham Jail,Chatham County Line,Country,325.mp3,325,0.315,0.576,9,A,-5.638,0,minor,0.0479,0.444,0,0.0871,0.519,5.4,2.1705,5.5,1.8409,165.228,5GzKO1m8Vacz5gXXyFEunE,NA,spotify:track:5GzKO1m8Vacz5gXXyFEunE
+Ricky Dee,Ricky Dee,Bandana Splits,Country,327.mp3,327,0.673,0.876,9,A,-5.136,1,major,0.0419,0.792,0,0.147,0.95,7.1,1.3703,6,1.4142,120.783,6rht2AV1nxoMlJtOnXI5WE,https://p.scdn.co/mp3-preview/12f09909fedb97e81b6d1574a9793466df338b1f?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6rht2AV1nxoMlJtOnXI5WE
+Clear Blue Sky,Clear Blue Sky,Chatham County Line,Country,343.mp3,343,0.47,0.74,7,G,-7.737,1,major,0.0295,0.167,0.945,0.275,0.886,8.1,0.8756,7,1.8257,135.764,5SLyEPQQMO55p7hRmnssi1,NA,spotify:track:5SLyEPQQMO55p7hRmnssi1
+Goodbye Old Paint,Goodbye Old Paint,Johnny Bond,Country,347.mp3,347,0.704,0.22,4,E,-10.797,1,major,0.0262,0.958,4.79e-4,0.142,0.695,5.8182,0.98165,3.8182,0.98165,75.525,4vm4FwitAofwVZ6ROEInM9,https://p.scdn.co/mp3-preview/e18845e7861ca7badd65edcd729ccc759c800332?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4vm4FwitAofwVZ6ROEInM9
+Birmingham Jail,Birmingham Jail,Johnny Bond,Country,353.mp3,353,0.315,0.576,9,A,-5.638,0,minor,0.0479,0.444,0,0.0871,0.519,4.8,2.1499,4,2.0548,165.228,5GzKO1m8Vacz5gXXyFEunE,NA,spotify:track:5GzKO1m8Vacz5gXXyFEunE
+Red Clay Road,Red Clay Road,D. Charles Speer & the Helix,Country,357.mp3,357,0.461,0.717,10,A#,-7.327,1,major,0.0282,0.492,0.721,0.31,0.885,6.5,1.2693,4.8,1.4757,159.927,2UHLlGL2gkAGJIt0Zl0pal,https://p.scdn.co/mp3-preview/33bdd5b89962ac32c842c7512e4e242731c70532?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2UHLlGL2gkAGJIt0Zl0pal
+After Today,After Today,Tift Merritt,Country,367.mp3,367,0.454,0.0957,0,C,-13.864,1,major,0.0359,0.96,4.8e-4,0.11,0.165,2.7,0.67495,3.1,1.6633,79.376,33vOVri0nIS51sDgqyqoDU,NA,spotify:track:33vOVri0nIS51sDgqyqoDU
+Better Do It Now,Better Do It Now,Spade Cooley &  the Western Swing Dance Gang Feat. Tex Williams,Country,368.mp3,368,0.578,0.29,3,D#,-15.696,1,major,0.1,0.753,0.844,0.104,0.849,6.1,1.6633,4.8,1.9322,187.103,0eLMWVpqki9Xp7fIt7ZHjG,https://p.scdn.co/mp3-preview/5e5f9b28bf5dfbc9b170678c9f5c44e8765fffb5?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0eLMWVpqki9Xp7fIt7ZHjG
+Little Wooden Church,Little Wooden Church,The Trumpeteers,Country,370.mp3,370,0.338,0.204,11,B,-13.237,1,major,0.0516,0.966,0.00233,0.129,0.249,3.4,1.8974,3.8,1.9889,59.657,3BMPGBCQiga87DG4ZnFnnK,NA,spotify:track:3BMPGBCQiga87DG4ZnFnnK
+Runaway Puppy,Runaway Puppy,QQQ,Country,372.mp3,372,0.497,0.733,6,F#,-6.961,0,minor,0.0652,0.215,0.00101,0.086,0.415,4.8,1.8135,3.6,1.2649,104.301,4U061tvhqnsqXiwv7Wy16o,https://p.scdn.co/mp3-preview/32bce8b9fbfd7faab0e3e814e5d68c87378e87de?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4U061tvhqnsqXiwv7Wy16o
+Whirlwind Dance,Whirlwind Dance,Ghost Hunter,Electronic,384.mp3,384,0.471,0.44,4,E,-19.393,0,minor,0.128,0.00487,0.902,0.106,0.272,4.1,1.6633,3.6,1.4298,169.47,670EMjYclGjCv8sIjRTCXW,https://p.scdn.co/mp3-preview/0233ba8f84f692414d66e2c988c2b1289cacd875?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:670EMjYclGjCv8sIjRTCXW
+Lysine,Lysine,Max Tundra,Electronic,393.mp3,393,0.809,0.749,0,C,-6.814,1,major,0.0553,0.00112,0.097,0.0569,0.714,6.4,0.69921,6,0.8165,101.88,0M9aZPwt9ROMYtVOuezX9t,https://p.scdn.co/mp3-preview/6d96674627a7f8d1de4cbcd9a493b5d6766a40f2?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0M9aZPwt9ROMYtVOuezX9t
+Mercy,Mercy,Lucky Dragons,Electronic,397.mp3,397,0.542,0.695,11,B,-8.395,0,minor,0.361,0.596,0.306,0.0904,0.825,7,1.4142,7,1.3333,158.268,0dtmgRnSrckT7IkmUv9ZV0,https://p.scdn.co/mp3-preview/cd03a839a1e00fcde039f99182b901da8c8828e6?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0dtmgRnSrckT7IkmUv9ZV0
+Quittin' Time,Quittin' Time,Patrick Lee,Electronic,402.mp3,402,0.761,0.833,7,G,-5.416,0,minor,0.0317,0.0207,0.882,0.397,0.783,7.1,0.99443,7.1,1.1005,124.976,4ctmWvyGFz7sZgephM7GyP,https://p.scdn.co/mp3-preview/1290e532b9784ef1e6d67bc2d4e6865ce1ed2279?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4ctmWvyGFz7sZgephM7GyP
+Presenterator,Presenterator,Kevin MacLeod,Electronic,405.mp3,405,0.594,0.552,5,F,-11.951,1,major,0.0284,1.76e-5,0.724,0.11,0.513,7.4,0.96609,6.1,2.0248,130.049,25oGlmITzv3o22UDAI8jlm,https://p.scdn.co/mp3-preview/e570931b22715739ba3e33b388c628efd8c80aa2?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:25oGlmITzv3o22UDAI8jlm
+Stars,Stars,Decktonic,Electronic,425.mp3,425,0.767,0.948,4,E,-6.225,0,minor,0.0544,0.0376,0.871,0.148,0.251,6.8,0.91894,7.1,0.73786,119.995,12cE7tSo1RvQPHizUfkJND,https://p.scdn.co/mp3-preview/de7b79b8eb9a71c164a7de37acf13822c5ae95ae?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:12cE7tSo1RvQPHizUfkJND
+How Exciting,How Exciting,Revolution Void,Electronic,428.mp3,428,0.827,0.806,11,B,-9.401,1,major,0.134,0.0664,0.603,0.145,0.796,6.6,0.96609,6.6,1.075,116.495,22Vu2ckXfkAwylo5xM0HKX,https://p.scdn.co/mp3-preview/a2c59a571be367fff9f72ee00285be614361461e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:22Vu2ckXfkAwylo5xM0HKX
+Divider,Divider,Chris Zabriskie,Electronic,429.mp3,429,0.58,0.0557,8,G#,-31.855,1,major,0.0861,0.918,0.959,0.0932,0.34,4.3,2.0028,3.3,1.1595,174.059,7nYXrepLTmVqg4dpfDYjTZ,https://p.scdn.co/mp3-preview/17347d865bcc49cc1b5ed1047ab2f911d984cbf7?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7nYXrepLTmVqg4dpfDYjTZ
+Oh Wee,Oh Wee,Immortal Beats,Electronic,440.mp3,440,0.314,0.758,4,E,-3.778,1,major,0.109,0.188,0.0081,0.112,0.616,6.3,1.8288,5.3,2.2632,87.312,0s8MuH1xqaWWGBYaUWPbS8,https://p.scdn.co/mp3-preview/f1e121035b230335d528c71f6db67b149cdd4bc2?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0s8MuH1xqaWWGBYaUWPbS8
+Expedition Chant Cup,Expedition Chant Cup,Music For Your Plants,Electronic,455.mp3,455,0.437,0.797,7,G,-5.138,0,minor,0.0724,0.002,0.906,0.141,0.147,5.7,1.2517,5.4,1.8379,179.997,3U5F49DyfR8lKR35HdPPgN,https://p.scdn.co/mp3-preview/66fd36a4d8248ea2c7f2b97bc1778c874eb307f3?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3U5F49DyfR8lKR35HdPPgN
+Night Drive,Night Drive,Decktonic,Electronic,477.mp3,477,0.568,0.839,7,G,-6.138,1,major,0.0995,0.168,0.827,0.0969,0.942,7.2,1.2293,7.1,1.5951,127.873,1ld1S5JtsmJk1Dh8w3MiYZ,https://p.scdn.co/mp3-preview/f6a68aea2f5229eef3956fa977b92d4fa5193127?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1ld1S5JtsmJk1Dh8w3MiYZ
+LA,LA,Julian Winter,Electronic,482.mp3,482,0.189,0.303,0,C,-28.208,0,minor,0.0915,0.939,0.921,0.682,0.373,3.5,2.3214,1.9,0.73786,74.616,2egXy8Fo7ZvKYiiZ9cAQ7l,https://p.scdn.co/mp3-preview/bf636fd11587f6b360e6f0d17b0b91f5b325e22b?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2egXy8Fo7ZvKYiiZ9cAQ7l
+Neurociencia,Neurociencia,Pulselooper,Electronic,486.mp3,486,0.206,0.658,1,C#,-9.149,0,minor,0.0542,0.472,0.914,0.135,0.033,5.7,1.7029,6.2,1.9322,173.128,64hIZK7RhaCczR2VyXITeF,https://p.scdn.co/mp3-preview/859ba8bc2177b92cea2afbd421a7c983c7133a30?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:64hIZK7RhaCczR2VyXITeF
+Pink Fuzz!,Pink Fuzz!,The Protagonist!,Electronic,489.mp3,489,0.392,0.704,0,C,-6.405,1,major,0.0448,0.508,0.79,0.0808,0.611,5.2,1.8738,4.6,1.8379,189.959,06hFfsNqGq6m5pA2m1lwAz,https://p.scdn.co/mp3-preview/0f6c8645e1185927d70d40da0f6b8501a0529ddd?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:06hFfsNqGq6m5pA2m1lwAz
+Beryllos,Beryllos,M-PeX,Electronic,492.mp3,492,0.607,0.681,7,G,-13.322,1,major,0.0273,0.365,0.913,0.107,0.106,4.8,1.8135,4.4,2.0111,142.014,51sJdiWD7N3c0kV3UtWTrr,https://p.scdn.co/mp3-preview/b63f71fd1626477ae458443f4795cb97da8e61cf?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:51sJdiWD7N3c0kV3UtWTrr
+Like Home,Like Home,Keshco,Folk,506.mp3,506,0.265,0.277,2,D,-15.712,1,major,0.0324,0.973,0.771,0.669,0.0389,4.1,1.4491,2.9,0.99443,112.458,0muPsaysTFsIIpTTvfIB6n,https://p.scdn.co/mp3-preview/892265adf7df9e20e89a378fa2ed018fd9d599f3?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0muPsaysTFsIIpTTvfIB6n
+Hash Smuggler's Blues,Hash Smugglers Blues,Plankton Wat,Folk,515.mp3,515,0.7,0.282,2,D,-12.737,0,minor,0.0294,0.73,0.877,0.11,0.168,3.4,1.2649,3.8,1.4757,98.601,2Id7wfEXfpVxanV7OhFiLw,https://p.scdn.co/mp3-preview/632d8b0d726b28f6742711156a2410189aecfd6d?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2Id7wfEXfpVxanV7OhFiLw
+Burning School,Burning School,Free Piece of Tape,Folk,518.mp3,518,0.338,0.507,10,A#,-10.793,1,major,0.0352,0.974,0.916,0.11,0.0353,3.4,1.1738,4.1,1.792,125.076,2PlIqAjDbtsk2fR3tl5F0q,https://p.scdn.co/mp3-preview/506c409dedce3894bc98b6d7d4b0dbf3075c36a5?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2PlIqAjDbtsk2fR3tl5F0q
+Broken Spell,Broken Spell,Moore & Sons,Folk,520.mp3,520,0.346,0.573,2,D,-8.336,1,major,0.0351,0.576,1.62e-4,0.245,0.563,5.5,1.4337,4,1.633,87.872,0BqYieNhZk698MtuD73bGA,https://p.scdn.co/mp3-preview/3f33432bd6186adbaaa4046709d8292216c0fdf2?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0BqYieNhZk698MtuD73bGA
+Old Strange,Old Strange,Black Twig Pickers and Steve Gunn,Folk,521.mp3,521,0.311,0.389,0,C,-12.867,1,major,0.0273,0.804,0.708,0.107,0.627,4.6,2.1705,3.8,1.6193,174.491,1D4Vky2ahLps2vwB41MAse,https://p.scdn.co/mp3-preview/8a0e465efe20cd6ca935f1ddcf76ffed46788892?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1D4Vky2ahLps2vwB41MAse
+Harmless Blues,Harmless Blues,Moore & Sons,Folk,551.mp3,551,0.655,0.514,7,G,-8.25,0,minor,0.0247,0.195,8.33e-6,0.132,0.527,4,1.4907,3.2,1.5492,87.168,3wTqet6DVASFa3zVUgOzfK,https://p.scdn.co/mp3-preview/467b6740628148c38ed3a5ae17f2027941159084?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3wTqet6DVASFa3zVUgOzfK
+Good Night Heart,Good Night Heart,My Bubba & Mi,Folk,558.mp3,558,0.692,0.064,10,A#,-17.136,0,minor,0.151,0.906,0,0.189,0.161,3.2,1.7512,2.8,1.9322,47.608,33qjT2VExKMMVOety5ZJOZ,https://p.scdn.co/mp3-preview/cf55b7e3cd228cb232296aaf43333fbe484245ae?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:33qjT2VExKMMVOety5ZJOZ
+Solemn Ground,Solemn Ground,Fit and the Conniptions,Folk,564.mp3,564,0.571,0.636,6,F#,-6.2,0,minor,0.0885,0.153,0.0128,0.107,0.701,4.9,1.7288,4.7,1.767,130.151,16bkFyNokX111e8Hr731WH,https://p.scdn.co/mp3-preview/3b17ddc35aaf1584f876f894c18e707f9a0ce247?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:16bkFyNokX111e8Hr731WH
+Cattails,Cattails,Kevin MacLeod,Folk,574.mp3,574,0.5,0.282,9,A,-11.703,1,major,0.0292,0.739,0.959,0.164,0.274,4.8,2.044,4.5,2.1731,153.998,4m2M0cHKabmJiX9PXbeKRw,https://p.scdn.co/mp3-preview/d53afc3e32002a2426004f73a39e450a4493fa86?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4m2M0cHKabmJiX9PXbeKRw
+Grass Above My Head,Grass Above My Head,Cian Nugent,Folk,580.mp3,580,0.312,0.332,2,D,-11.741,1,major,0.0334,0.303,0.914,0.0935,0.178,4.4,1.3499,2.4,1.075,96.578,3M40DY6ksnxfdh7remQrWm,https://p.scdn.co/mp3-preview/c7b2b206db469855f47b33e22abcbecec11a357e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3M40DY6ksnxfdh7remQrWm
+Mona Lisa,Mona Lisa,Atlas Sound,Folk,581.mp3,581,0.551,0.788,7,G,-10.594,1,major,0.0337,0.339,5.82e-4,0.0945,0.792,6,1.0541,5.3,1.2517,124.995,2XYRxeXd56lzqTBzO41ARO,https://p.scdn.co/mp3-preview/a91ffd0ee84b85c86d95c37db29ab8c430c38a73?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2XYRxeXd56lzqTBzO41ARO
+Whoopee Ti Yi Yo,Whoopee Ti Yi Yo,The Sons Of The Pioneers,Folk,591.mp3,591,0.707,0.38,0,C,-7.873,1,major,0.0404,0.975,0,0.142,0.734,6.2,2.201,5.7,1.767,84.171,3xtJyWD9JxzuTbvawSCUHf,NA,spotify:track:3xtJyWD9JxzuTbvawSCUHf
+Wafternoon,Wafternoon,Keshco,Folk,597.mp3,597,0.546,0.74,1,C#,-6.39,1,major,0.173,0.579,1.97e-5,0.552,0.805,6.4,0.84327,4.8,1.8738,140.594,0ADGgWYLvpoS06eKZsm8P0,https://p.scdn.co/mp3-preview/23c82796f8d2185bd9679703733067de86b89986?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0ADGgWYLvpoS06eKZsm8P0
+Flirt,Flirt,The Simple Carnival,Folk,605.mp3,605,0.807,0.327,2,D,-12.731,0,minor,0.0456,0.76,5.19e-4,0.11,0.739,6,1.633,4.4,1.8379,121.462,7lVGiRlNzKa9eVbet7NB5C,https://p.scdn.co/mp3-preview/1b2e7982c45d72cf924e9eba4e99edbaacb06b7e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7lVGiRlNzKa9eVbet7NB5C
+Past Has Not Passed,Past Has Not Passed,James Blackshaw,Folk,607.mp3,607,0.197,0.337,5,F,-13.986,1,major,0.0326,0.665,0.958,0.325,0.0361,6.1,1.3703,4.4,1.8379,133.14,3QkVkQSFbvq2ACymmljGJb,https://p.scdn.co/mp3-preview/f6e056edc551a5b73cb33f823e183d39e66893fe?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3QkVkQSFbvq2ACymmljGJb
+Eter,Eter,M-PeX,Folk,609.mp3,609,0.686,0.884,7,G,-9.884,1,major,0.0588,0.189,0.917,0.307,0.648,5.5,1.6499,4.9,2.1318,141.952,6wsf2vElUVzC5zTJxYW77x,https://p.scdn.co/mp3-preview/8c0868f7ca107ab0ace15f1f6dc600cfca91d690?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6wsf2vElUVzC5zTJxYW77x
+I Want To Destroy Something Beautiful,I Want To Destroy Something Beautiful,Josh Woodward,Folk,614.mp3,614,0.448,0.565,6,F#,-7.934,1,major,0.0319,0.0389,7.77e-6,0.089,0.106,3.7,1.4181,4.3,1.567,144.056,45zaCeII3wUZBgwzQBoMng,https://p.scdn.co/mp3-preview/3e5384b6420f5bad4ce5979d39041ca27a20a523?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:45zaCeII3wUZBgwzQBoMng
+Aqua,Aqua,M-PeX,Folk,620.mp3,620,0.622,0.894,10,A#,-10.635,0,minor,0.0432,0.241,0.899,0.1,0.302,4.4,1.6465,5.8,1.3166,142.028,2RJHvwcvaSIxkPE4ZZgPR8,https://p.scdn.co/mp3-preview/12e27069be662ad9a464c391491f1cf1f74a6cb0?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2RJHvwcvaSIxkPE4ZZgPR8
+Hungaria,Hungaria,Latché Swing,Jazz,628.mp3,628,0.94,0.472,2,D,-6.638,1,major,0.0815,0.848,0.852,0.0969,0.884,6.8,1.7512,4.9,2.1833,120.146,63t5ckxexn21dzDt857cAf,https://p.scdn.co/mp3-preview/acb9c0b5d7b828619299aac27ab7f6f701c1a8c7?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:63t5ckxexn21dzDt857cAf
+Forward,Forward,Northbound,Jazz,632.mp3,632,0.676,0.591,8,G#,-7.717,0,minor,0.0288,0.0152,0.513,0.083,0.646,5.4,1.8974,4.2,2.201,97.488,4HkwnTVDlQ3Qxa8pNaTkZM,https://p.scdn.co/mp3-preview/e6640bf51e746d904d129eb5ec4f0096af23cf6b?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4HkwnTVDlQ3Qxa8pNaTkZM
+Winter Sunshine,Winter Sunshine,Evgeny Grinko,Jazz,638.mp3,638,0.254,0.07,0,C,-24.289,1,major,0.042,0.995,0.929,0.0946,0.0768,4.4,1.7127,3.2,1.5492,93.44,6C2lU5SQQcmAjINZGMNsJy,https://p.scdn.co/mp3-preview/2c9e7fd819235c8c7dfadafc56e4a782a5ac7542?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6C2lU5SQQcmAjINZGMNsJy
+Scattered Knowledge,Scattered Knowledge,Revolution Void,Jazz,647.mp3,647,0.451,0.504,1,C#,-13.192,0,minor,0.0351,0.0376,0.876,0.0849,0.174,5.8,0.91894,3,1.0541,88.021,0VHU5r5ygB9W1eolsHgAlV,https://p.scdn.co/mp3-preview/055805c2e705c3724d9b8a81e4548e2cabf0c402?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0VHU5r5ygB9W1eolsHgAlV
+I Remember You,I Remember You,Nature,Jazz,649.mp3,649,0.448,0.501,5,F,-9.146,1,major,0.0318,0.894,0.652,0.0964,0.202,6.7,0.67495,6.2,1.0328,104.663,26xmR9YgWxx84ybG7LyDcb,https://p.scdn.co/mp3-preview/9bea772b14edb150ed0534f6ed0f56617b3749e4?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:26xmR9YgWxx84ybG7LyDcb
+Balancing Act,Balancing Act,The Underscore Orkestra,Jazz,651.mp3,651,0.652,0.492,9,A,-11.116,1,major,0.174,0.24,0,0.236,0.782,7.1,0.73786,6.4,1.075,133.911,5Xw4bKEFSMAOCASvmNwSrJ,https://p.scdn.co/mp3-preview/affc40e564a92782ee9723762b9635ca42809abf?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5Xw4bKEFSMAOCASvmNwSrJ
+Sweet Georgia Brown,Sweet Georgia Brown,Latché Swing,Jazz,665.mp3,665,0.923,0.431,2,D,-5.893,1,major,0.0601,0.565,0.962,0.1,0.946,6.2,1.6865,5.7,1.8288,117.001,3tErGlmiNA0zKnEdeNqRkI,https://p.scdn.co/mp3-preview/4459fbbf7fef1c59c3bf4d6833eecd71583100ee?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3tErGlmiNA0zKnEdeNqRkI
+Menilmontant,Menilmontant,Latché Swing,Jazz,671.mp3,671,0.824,0.328,7,G,-6.73,1,major,0.0866,0.832,0.803,0.331,0.488,3.7,1.6364,3.1,1.5951,93.041,6QFcy3WXiKlVf5b9HxLipB,https://p.scdn.co/mp3-preview/5e20512b9ef232b866e37ae397bd2357469d402e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6QFcy3WXiKlVf5b9HxLipB
+Chosen Kale Mazel Tov,Chosen Kale Mazel Tov,The Underscore Orkestra,Jazz,676.mp3,676,0.393,0.603,2,D,-9.621,0,minor,0.0844,0.105,0.00752,0.158,0.772,6.6,2.5033,6.6,2.5033,157.401,4HmtGWAYWHAJRHwDR8p8Y1,https://p.scdn.co/mp3-preview/3a9ace0094231e4274396dee4322c186400bdb32?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4HmtGWAYWHAJRHwDR8p8Y1
+Impressive,Impressive,Mystic Morrison Visions,Jazz,693.mp3,693,0.352,0.746,11,B,-9.157,0,minor,0.0536,0.025,0.178,0.22,0.694,5.3,2.0575,6.2,1.6865,112.002,64wnQ02z7UindpWdWHD0Ph,https://p.scdn.co/mp3-preview/bf58c8e92cc4aea039f436656c470897b2a6d3ac?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:64wnQ02z7UindpWdWHD0Ph
+Jovanko,Jovanko,The Underscore Orkestra,Jazz,709.mp3,709,0.431,0.475,7,G,-8.476,1,major,0.0493,0.476,0.0263,0.11,0.764,5,1.8856,5.8,1.5492,197.81,2oyBVKmbKn7XFhX6G9Todz,https://p.scdn.co/mp3-preview/d01c43b41fab96da59527d9c9db96ec1c151d495?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2oyBVKmbKn7XFhX6G9Todz
+Dances and Dames,Dances and Dames,Kevin MacLeod,Jazz,711.mp3,711,0.591,0.0676,8,G#,-27.349,1,major,0.0461,0.798,0.905,0.111,0.627,3.1,1.1972,2.9,1.1972,120.018,4tYNRUh16ub8NVvLqqZu7x,https://p.scdn.co/mp3-preview/d5476327ed04299255b1a462b2d0a48ff5b9e4ad?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4tYNRUh16ub8NVvLqqZu7x
+As I Figure,As I Figure,Kevin MacLeod,Jazz,712.mp3,712,0.788,0.281,4,E,-19.16,0,minor,0.0393,0.871,0.863,0.106,0.676,5.3,1.4944,3.4,1.1738,120.01,0GorvgaFJD0T7W2c2PRwwX,https://p.scdn.co/mp3-preview/aca4a659c9495adbd7bc6b070994ef8242805769?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0GorvgaFJD0T7W2c2PRwwX
+Underscore Underwear,Underscore Underwear,The Underscore Orkestra,Jazz,717.mp3,717,0.716,0.197,2,D,-16.521,1,major,0.0603,0.277,1.92e-4,0.102,0.555,4.9,1.2867,4.5,1.354,109.953,0wSDp25h0gNaVLDVS9JI9c,https://p.scdn.co/mp3-preview/b04055ac09b45eb0c0dadfce9fa6c0e0141eafb2?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0wSDp25h0gNaVLDVS9JI9c
+Cocek,Cocek,The Underscore Orkestra,Jazz,718.mp3,718,0.529,0.415,7,G,-11.435,1,major,0.0317,0.579,0.0331,0.101,0.622,6.5,1.7159,5.9,1.6633,93.921,1r10cOQkbZaltrcIIri9wi,https://p.scdn.co/mp3-preview/f1d17ce04842a1251a73ef0a2b10cf70390a5183?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1r10cOQkbZaltrcIIri9wi
+Mic Check,Mic Check,Nature,Jazz,721.mp3,721,0.694,0.86,7,G,-9.818,1,major,0.345,0.241,0,0.109,0.623,5.5,1.0801,5.7,1.8886,140.076,6bks0Y6VHePtYzto4doYmK,https://p.scdn.co/mp3-preview/af5b86f3cb3bb98c474e1f627cc3e6bbcf279f8c?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6bks0Y6VHePtYzto4doYmK
+April Showers,April Showers,ProleteR,Jazz,723.mp3,723,0.801,0.546,11,B,-7.256,1,major,0.132,0.28,0.929,0.141,0.902,7.2,1.1353,6.5,1.8409,94,04KsMCb9PZE2S0AtUU8Jhb,https://p.scdn.co/mp3-preview/fb4523e842271ccbe3d7a1c4e23e7da69536768d?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:04KsMCb9PZE2S0AtUU8Jhb
+Octopus,Octopus,Mystic Morrison Visions,Jazz,725.mp3,725,0.557,0.611,2,D,-9.756,1,major,0.0588,0.214,0.475,0.322,0.683,5.1,1.5239,5.1,1.792,91.309,4jWjLcGgd1EudYl89puQ0d,https://p.scdn.co/mp3-preview/9669041f5c8f6e1fb96a40256b506ae374f283e3?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4jWjLcGgd1EudYl89puQ0d
+Magdalena,Magdalena,The Underscore Orkestra,Jazz,728.mp3,728,0.367,0.463,7,G,-8.873,1,major,0.0412,0.59,1.58e-4,0.061,0.387,7.5,1.2693,6.9,1.8529,81.594,3jWdKp1RnPFQOOmiJh7GZq,https://p.scdn.co/mp3-preview/5a52b1d1fb9cd1cbc661733f235082a3bb24e174?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3jWdKp1RnPFQOOmiJh7GZq
+Dobur Vecher,Dobur Vecher,The Underscore Orkestra,Jazz,732.mp3,732,0.431,0.468,7,G,-9.916,1,major,0.0474,0.139,1.04e-5,0.0794,0.809,6.3,0.94868,5.6,1.8379,196.669,0ZjFBRNp9ywjGJ75TIinYe,https://p.scdn.co/mp3-preview/736bccf10a2e9013ff3b4034b1ee59187170c79d?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0ZjFBRNp9ywjGJ75TIinYe
+Mad About You,Mad About You,Yair Yona,Jazz,733.mp3,733,0.304,0.341,5,F,-10.815,1,major,0.0304,0.686,0.895,0.136,0.104,5,1.5635,4.3,1.4944,138.838,10qtastwfJzlRMwYsKg4rp,https://p.scdn.co/mp3-preview/b46f79038485a2297cc932cb496acf1eb20c951d?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:10qtastwfJzlRMwYsKg4rp
+Invisible Walls,Invisible Walls,Revolution Void,Jazz,735.mp3,735,0.678,0.498,10,A#,-9.864,0,minor,0.0354,0.0134,0.766,0.0985,0.626,4.9,0.99443,4.3,1.0593,94.064,1RppQvUL0uzitlS0NuvMOI,https://p.scdn.co/mp3-preview/9728fe7e2f5bb7aeb50061537eb240150fce92d3?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1RppQvUL0uzitlS0NuvMOI
+Some Other Place,Some Other Place,DJ Harrison,Jazz,737.mp3,737,0.498,0.391,4,E,-14.077,1,major,0.0311,0.782,0.00294,0.105,0.299,4.9,1.2867,4.1,0.99443,149.763,6SskqEqhYXedFp39KhosHh,https://p.scdn.co/mp3-preview/6ad796b297de39abea4357582f292e8cb8d1d5a1?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6SskqEqhYXedFp39KhosHh
+Blue Draggish,Blue Draggish,The Underscore Orkestra,Jazz,738.mp3,738,0.668,0.511,2,D,-9.519,0,minor,0.0439,0.438,1.24e-4,0.101,0.679,6.2,1.3984,5.5,1.5092,144.95,5Ocs6TpIC2UMySFPUGOqGh,https://p.scdn.co/mp3-preview/af7c40a35cbacd32a497260b6e81c204f0d32da1?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5Ocs6TpIC2UMySFPUGOqGh
+Broken String,Broken String,The Underscore Orkestra,Jazz,741.mp3,741,0.712,0.167,2,D,-16.378,1,major,0.0723,0.586,0.37,0.292,0.413,4.4,1.5776,4.6,1.5776,114.227,2Ar1NiGkBxbnfF6E7pTVK4,https://p.scdn.co/mp3-preview/8beee750d98b94c3144ed11809a2689b27f251ad?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2Ar1NiGkBxbnfF6E7pTVK4
+Tasky,Tasky,Blue Swerver,Jazz,743.mp3,743,0.633,0.451,1,C#,-10.596,1,major,0.265,0.758,0.00893,0.0965,0.473,5,2.0548,3.1,1.5239,123.426,1ymx4SZ3drxdYGUzgWK7C2,https://p.scdn.co/mp3-preview/6551354d50aba175258c2ac527b879c11470c750?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1ymx4SZ3drxdYGUzgWK7C2
+Capadócia,Capadócia,Thiago França,Jazz,744.mp3,744,0.756,0.549,6,F#,-9.878,1,major,0.0761,0.212,0.851,0.102,0.645,5.5,1.1785,6.1,1.3703,142.948,01vHPjEbX2LUG1BAHELAcm,https://p.scdn.co/mp3-preview/cfb71300594c980ebf8bdc648d43f075764903d9?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:01vHPjEbX2LUG1BAHELAcm
+Big Fun (New Ruckus),Big Fun (New Ruckus),Slumgum,Jazz,749.mp3,749,0.52,0.534,6,F#,-9.974,0,minor,0.0352,0.216,0.332,0.0936,0.715,4.9,1.4491,4.2,1.3166,105.193,1rmrsBTSI4OAG9fYpwpEsE,https://p.scdn.co/mp3-preview/ea57e2252108be39da5840f5871d56e6614d7720?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1rmrsBTSI4OAG9fYpwpEsE
+Freeway,Freeway,Kurt Vile,Pop,757.mp3,757,0.606,0.916,6,F#,-8.162,1,major,0.0371,0.14,0.356,0.132,0.889,6.1,1.4491,6,1.3333,111.563,66381EvBZ6e3RXzYATpGmN,https://p.scdn.co/mp3-preview/8072dd673b69a25e2487e4c371bf703bc4336bc3?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:66381EvBZ6e3RXzYATpGmN
+Frozen Egg,Frozen Egg,Lame Drivers,Pop,759.mp3,759,0.278,0.904,4,E,-6.121,1,major,0.0431,0.0946,6.07e-4,0.513,0.81,5.9,1.1972,6.7,0.94868,154.27,0dqkma6elydngemQCgOl5g,https://p.scdn.co/mp3-preview/93649133fab3bd74e9965e88f6f75df984539e86?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0dqkma6elydngemQCgOl5g
+Siesta,Siesta,Jahzzar,Pop,763.mp3,763,0.608,0.528,7,G,-11.04,1,major,0.0356,0.731,0.91,0.158,0.375,5.5,1.4337,3.5,1.5092,109.986,6ty63iXMBb2HtZTTo4srOz,https://p.scdn.co/mp3-preview/ac7ac2da3ce7a38825a86b919d7e20d1691a2a07?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6ty63iXMBb2HtZTTo4srOz
+Vogelbird,Vogelbird,Sleeping Policemen,Pop,764.mp3,764,0.408,0.66,9,A,-8.216,1,major,0.033,0.00245,8.92e-4,0.106,0.417,7.5,0.97183,6.3,1.7029,172.164,2o2LKS73kyhOl2xc4rlZyG,https://p.scdn.co/mp3-preview/228ce89c9bd1c36d9b299dca8547c6cdbb80a191?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2o2LKS73kyhOl2xc4rlZyG
+In The Early Months Of The Emergency,In The Early Months Of The Emergency,Ghost Hunter,Pop,775.mp3,775,0.242,0.523,0,C,-20.15,1,major,0.124,0.48,0.827,0.0598,0.137,4.4,1.5776,3.7,1.6364,199.243,38DTnqtIvAFy5j8pnB7qcF,https://p.scdn.co/mp3-preview/323633f9be3cdd106ea31337ec550a37e891305a?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:38DTnqtIvAFy5j8pnB7qcF
+Through The Haze Of The Green Glasses,Through The Haze Of The Green Glasses,Ghost Hunter,Pop,776.mp3,776,0.585,0.821,7,G,-14.343,1,major,0.0654,0.0154,0.827,0.0996,0.169,4.5,2.3214,3.5,1.8409,101.985,5WmzFWjrW5grtDw43IG8jt,https://p.scdn.co/mp3-preview/e7f8c23c8a3c0ee4f51b5572586c7e9b91fa252a?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5WmzFWjrW5grtDw43IG8jt
+A Little Too Fast,A Little Too Fast,The Strangers,Pop,777.mp3,777,0.466,0.781,11,B,-8.465,0,minor,0.0397,0.285,3.25e-6,0.0706,0.778,5.1,2.2828,6.2,2.2509,96.923,0ij3805Igiih0dCQfjUq17,https://p.scdn.co/mp3-preview/4a0b4e806f70aa47cc37a8bd6fd503a172808fdf?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0ij3805Igiih0dCQfjUq17
+Butterfly,Butterfly,Delicate Steve,Pop,781.mp3,781,0.649,0.569,9,A,-8.235,1,major,0.0658,0.0836,0.903,0.171,0.304,6.3,2.2136,4.9,2.1318,172.052,33wwhJ1srj6k9YqgnvfOay,https://p.scdn.co/mp3-preview/007a10c16885bf693e6b59d818ccffb5ef024b99?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:33wwhJ1srj6k9YqgnvfOay
+Who Are You,Who Are You,The Strangers,Pop,782.mp3,782,0.561,0.973,9,A,-5.094,0,minor,0.0558,0.0981,2.75e-5,0.34,0.694,4.7,2.5841,7.2,1.4757,117.225,4wIxZ9oc4IwadioLQ4MEH8,https://p.scdn.co/mp3-preview/070cb83d52c65f26631101b48287adef23c6663b?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4wIxZ9oc4IwadioLQ4MEH8
+No Slow Dancing,No Slow Dancing,Austin Leonard Jones,Pop,789.mp3,789,0.526,0.402,7,G,-9.107,1,major,0.0266,0.551,0.156,0.119,0.484,5.2,2.044,3.9,2.3781,136.47,68C7g1i6hBMaVmjeemN4eA,https://p.scdn.co/mp3-preview/6af7e7a850daada53e2834b4ae24312e431edc4f?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:68C7g1i6hBMaVmjeemN4eA
+City Sounds,City Sounds,Sycamore Drive,Pop,790.mp3,790,0.514,0.815,9,A,-3.547,0,minor,0.0626,0.245,0.732,0.167,0.521,5.4,1.5055,7.2,1.3166,97.349,63iIxelIziTn2VpmKJNEEg,https://p.scdn.co/mp3-preview/8cb7dab837507ff342defd976a04ac6f24874865?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:63iIxelIziTn2VpmKJNEEg
+Beach Point Pleasant,Beach Point Pleasant,Ducktails,Pop,799.mp3,799,0.35,0.657,6,F#,-7.712,1,major,0.0382,0.765,0.911,0.288,0.542,5.6,0.69921,4.1,1.2867,128.195,3fq5Q5QbfTpEIzcwuhb3M9,https://p.scdn.co/mp3-preview/7a60171a7b396e5166dca75719218c9e4eddfebd?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3fq5Q5QbfTpEIzcwuhb3M9
+Marty Feldman,Marty Feldman,Keshco,Pop,801.mp3,801,0.119,0.667,1,C#,-20.183,0,minor,0.0747,0.529,0.872,0.422,0.0265,3.5,2.2236,3.3,2.1108,95.898,0pwAYD3U67bMj1VST6pTqi,https://p.scdn.co/mp3-preview/36dc143d4e32fdd18f927fbb350156cb4c5cc3af?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0pwAYD3U67bMj1VST6pTqi
+Lost,Lost,Greg Gibbs,Pop,808.mp3,808,0.898,0.594,5,F,-10.576,1,major,0.0458,0.668,0.0432,0.121,0.753,4.3,1.9465,3.1,1.5951,100.005,0y3F93i8xQbIAXEnN0K4ll,https://p.scdn.co/mp3-preview/e0d5458c78595ba7d49cf90ab12e24b0ea73e871?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:0y3F93i8xQbIAXEnN0K4ll
+Wild & You,Wild & You,My Bubba & Mi,Pop,813.mp3,813,0.674,0.38,2,D,-10.401,1,major,0.0392,0.768,0.00215,0.0918,0.451,6.7,1.0593,6.2,1.2293,128.325,4PU0IUr4DjEcoKV5DA5JiS,https://p.scdn.co/mp3-preview/1af1c7013d13d747d21287dccb9b24931ae7a48b?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4PU0IUr4DjEcoKV5DA5JiS
+In Fielder,In Fielder,Miró Belle,Pop,818.mp3,818,0.701,0.882,7,G,-5.022,1,major,0.084,0.0325,0.894,0.273,0.6,6.8,1.4757,5.9,1.3703,109.742,08CDqSTWg9Wp7VI3OvJg7L,https://p.scdn.co/mp3-preview/0543eed771bfe529d8864a4a1322f502dcc4e523?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:08CDqSTWg9Wp7VI3OvJg7L
+You Want It,You Want It,Gringo Star,Pop,823.mp3,823,0.469,0.782,6,F#,-6.658,1,major,0.0302,0.133,0.00254,0.0909,0.751,4.8,1.2293,4.8,1.6193,130.327,1yTsEGLUE9IdZDss430ae5,https://p.scdn.co/mp3-preview/47d0972e7a173f50a9c60a05c37011af4f7a0f8e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1yTsEGLUE9IdZDss430ae5
+Untold Story,Untold Story,Sycamore Drive,Pop,824.mp3,824,0.534,0.954,6,F#,-3.591,0,minor,0.0768,0.106,0.932,0.178,0.158,7,1.0541,7.2,1.4757,131.813,2JjLhoWNtG5ArqOgPMW7Po,https://p.scdn.co/mp3-preview/ef66b9c039dcf7938d8a789e23e82e53a6913d72?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2JjLhoWNtG5ArqOgPMW7Po
+Through & Through,Through & Through,My Bubba & Mi,Pop,854.mp3,854,0.472,0.229,4,E,-12.387,1,major,0.0529,0.918,1.61e-5,0.108,0.354,3.8,1.5492,2.9,1.3703,77.956,5d1sK9lD7ondJZSMGs9m0f,https://p.scdn.co/mp3-preview/489fc857ef045aef2c51b6ffd03b47fe38fa8ba5?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5d1sK9lD7ondJZSMGs9m0f
+The Other Man,The Other Man,Sloan,Pop,856.mp3,856,0.592,0.662,6,F#,-7.122,0,minor,0.0281,0.00118,5.2e-4,0.385,0.495,5.6,0.84327,6.7,0.94868,117.93,5wtifIEA8OilqQAJN5Nj6V,https://p.scdn.co/mp3-preview/52483b40a8832d9c6876c977c1325eab6e1230c9?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5wtifIEA8OilqQAJN5Nj6V
+Love Me Like You,Love Me Like You,The Mythics,Pop,865.mp3,865,0.452,0.609,11,B,-5.235,1,major,0.0311,0.0341,0.439,0.0715,0.386,4.6,1.5776,2.8,1.8738,116.133,7efg9kT0H2hELLUUU4iptP,https://p.scdn.co/mp3-preview/3b67a8866e375b119d0ad70fd7909dea5fb3219e?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7efg9kT0H2hELLUUU4iptP
+Deep Thought Process,Deep Thought Process,Sycamore Drive,Pop,871.mp3,871,0.493,0.861,7,G,-3.192,1,major,0.0618,0.446,0.991,0.243,0.474,6,1.9437,6.4,1.4298,109.557,1Kk3JQmb62YsH1Rrk8yy8Z,https://p.scdn.co/mp3-preview/270b32bc7cf64bbfe1191a37456cac0e6f0ae5e7?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1Kk3JQmb62YsH1Rrk8yy8Z
+This Love's Got to Change,This Love's Got to Change,Black Math,Pop,874.mp3,874,0.174,0.992,2,D,-3.625,1,major,0.11,1.23e-5,0.691,0.702,0.598,4.4,2.0656,6.3,1.567,77.224,1hMohwBhrw5BvJkB5A4zbI,https://p.scdn.co/mp3-preview/ba81361c7ce6e9fede395ea8e034baf47491e4ce?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1hMohwBhrw5BvJkB5A4zbI
+Computer,Computer,State Shirt,Rock,879.mp3,879,0.568,0.704,2,D,-8.732,1,major,0.0578,0.0403,0.731,0.0759,0.426,6,1.3333,5.6,1.075,173.001,4dMuaUPtmzmHAytoEfF71R,https://p.scdn.co/mp3-preview/89af3cf7598b1d77ed9b037641b1c054d2b032b0?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4dMuaUPtmzmHAytoEfF71R
+Old White Eye,Old White Eye,Ghost Hunter,Rock,884.mp3,884,0.531,0.695,5,F,-11.604,1,major,0.102,0.471,0.451,0.127,0.325,5,1.5635,5.5,2.0683,109.892,2RBEjeuKV2PRpcNgGaaw7b,https://p.scdn.co/mp3-preview/23afecb5041eb03ce46bd6012698788a2332e2e1?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2RBEjeuKV2PRpcNgGaaw7b
+Mariachi Bandits of Gatling Gun Ridge,Mariachi Bandits of Gatling Gun Ridge,krackatoa,Rock,886.mp3,886,0.639,0.588,11,B,-14.133,0,minor,0.0316,0.319,0.956,0.0815,0.354,5.4,1.4298,5.9,0.99443,120.018,7w02LkCrPVfSnV3OG7tcK2,https://p.scdn.co/mp3-preview/1a1eea44cd30131d7896441fc162cbc725af5475?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7w02LkCrPVfSnV3OG7tcK2
+Requiem for a Fish,Requiem for a Fish,The Freak Fandango Orchestra,Rock,889.mp3,889,0.637,0.751,0,C,-4.755,0,minor,0.0416,8.36e-4,0.666,0.532,0.965,7.2,1.6193,6.9,1.792,137.644,5ndZGKQNuD79AVFrQoeuHl,https://p.scdn.co/mp3-preview/d47dca0e76cba4f78fed01d88e4c8176c09d9b62?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5ndZGKQNuD79AVFrQoeuHl
+Photosphere,Photosphere,Charles Atlas,Rock,925.mp3,925,0.606,0.256,2,D,-15.565,1,major,0.0409,0.598,0.858,0.0915,0.0387,5.7,1.7029,4.9,1.5951,116.745,5N8vwIobINlQXiWXEc1YKp,https://p.scdn.co/mp3-preview/a35f5f2fe1c368b13007ae65a897a5b9ccb27f3d?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5N8vwIobINlQXiWXEc1YKp
+Other Side,Other Side,Lame Drivers,Rock,934.mp3,934,0.569,0.795,4,E,-4.659,1,major,0.031,0.0105,2.76e-5,0.149,0.499,6.4,1.7127,6.2,1.8738,116.373,5uqntkeUp9djXTXbxMGqSj,https://p.scdn.co/mp3-preview/0aaa1488810b03e82a87fb7e551d4e8b24503c38?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:5uqntkeUp9djXTXbxMGqSj
+Plumy Tale,Plumy Tale,Dumbo Gets Mad,Rock,936.mp3,936,0.373,0.783,8,G#,-6.579,1,major,0.0311,4.22e-4,0.921,0.267,0.611,4.7,1.767,5.4,1.6465,97.918,2rv28aDs6dOtF82hmoKgXD,https://p.scdn.co/mp3-preview/0a9da64c70d9da1223cf06a98fad82bdc54610cb?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2rv28aDs6dOtF82hmoKgXD
+Santa Leone,Santa Leone,Pajaro,Rock,942.mp3,942,0.506,0.578,11,B,-7.407,0,minor,0.028,0.154,0.926,0.13,0.45,4.1,2.079,4.8,1.6865,100.078,2mCzSMAq34LZgDr7WToIXl,https://p.scdn.co/mp3-preview/f1b87522a5a3150553fdd1495e9aafbceb03c3dc?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2mCzSMAq34LZgDr7WToIXl
+Hey Grrl,Hey Grrl,Shark,Rock,944.mp3,944,0.143,0.964,11,B,-4.5,1,major,0.134,0.00641,0.00329,0.104,0.0547,6.5,1.2693,7.1,0.99443,179.509,4n6XDbKer2uSuLl4VZqPjP,https://p.scdn.co/mp3-preview/34bc4fb051819058faf9d445665ba2a45ccd5c8f?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4n6XDbKer2uSuLl4VZqPjP
+Favorite Secrets,Favorite Secrets,Waylon Thornton,Rock,949.mp3,949,0.812,0.79,1,C#,-7.645,0,minor,0.0354,1.28e-4,0.813,0.269,0.571,6.1,1.2867,5.7,1.567,117.454,42cZJ4rFyi0GFDEdX0mokR,https://p.scdn.co/mp3-preview/034997296d54d57f320c8b0453c87a73a0b03459?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:42cZJ4rFyi0GFDEdX0mokR
+Indyair,Indyair,springtide,Rock,959.mp3,959,0.243,0.505,2,D,-8.594,1,major,0.0405,1.32e-5,0.852,0.362,0.216,6.4,2.1187,6.2,2.044,120.1,6GVQO3X3fO2HwfC4LpP2Vu,https://p.scdn.co/mp3-preview/6357c3c399d11b5861dc73069d9056d941b20638?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:6GVQO3X3fO2HwfC4LpP2Vu
+Helix Nebula,Helix Nebula,Anamanaguchi,Rock,960.mp3,960,0.393,0.993,1,C#,-4.257,0,minor,0.105,2.79e-4,0.921,0.146,0.274,7.7,0.82327,7.7,1.3375,149.971,1dcmLPmtJPaTGo3wr9SKDI,https://p.scdn.co/mp3-preview/34a22031c568d12bc33ec30d66504098d82368dc?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1dcmLPmtJPaTGo3wr9SKDI
+Crucial Contact,Crucial Contact,Karl Blau,Rock,974.mp3,974,0.425,0.51,11,B,-10.59,1,major,0.092,0.823,0.654,0.272,0.532,4.2,1.8738,4.1,1.7288,156.45,3A797MbF1QaWIr6Ij580u8,https://p.scdn.co/mp3-preview/608ebab7c2b6c19659d898fb7c9a7b500afa35a0?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:3A797MbF1QaWIr6Ij580u8
+Suck City,Suck City,Black Math,Rock,977.mp3,977,0.292,0.635,0,C,-4.374,1,major,0.052,0,0.911,0.208,0.134,3.5,1.7159,7.3,1.0593,89.853,1UncV8tg1UrKSd936eN3bz,https://p.scdn.co/mp3-preview/d387d77377ed0f1528b23c9e292124d47d024fa1?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:1UncV8tg1UrKSd936eN3bz
+Absolutely Gorgeous,Absolutely Gorgeous,krackatoa,Rock,978.mp3,978,0.575,0.987,1,C#,-3.948,1,major,0.055,7.87e-5,0.776,0.47,0.308,6.1,2.1318,7.7,1.4944,121.323,7q1dUtd4oOJF376ZEdC3yz,https://p.scdn.co/mp3-preview/fe4a66aee6354e6af15ca4516bac0fbe2f036d4f?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:7q1dUtd4oOJF376ZEdC3yz
+Deck the Halls,Deck the Halls,Rue Royale,Rock,979.mp3,979,0.554,0.324,11,B,-14.269,1,major,0.0299,0.907,0.116,0.111,0.447,5.5,1.9579,3.1,1.6633,144.078,21F3BSkJAEiUAt34fdR6Yn,https://p.scdn.co/mp3-preview/ec2bbeb8e048cc211f8917234719822959a79ed5?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:21F3BSkJAEiUAt34fdR6Yn
+Tell The Police The Truth,Tell The Police The Truth,Mahjongg,Rock,980.mp3,980,0.57,0.783,3,D#,-6.502,0,minor,0.0318,2.59e-4,0.772,0.112,0.968,4.3,1.8288,5.8,1.2293,132.283,4mmXB9JVEIQbNbWcrQE715,https://p.scdn.co/mp3-preview/61403e9ca3aaaaec78100570c26bb2b05f865baf?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4mmXB9JVEIQbNbWcrQE715
+Moving Away,Moving Away,Moore & Sons,Rock,991.mp3,991,0.661,0.302,1,C#,-16.06,0,minor,0.358,0.0735,0,0.123,0.461,3.5,1.5811,3.1,1.3703,111.313,4ApdnOTaOnq8whD0nZqOY7,https://p.scdn.co/mp3-preview/edf7a5b1f47113844cd2e615a6d802abc3ee0dfa?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:4ApdnOTaOnq8whD0nZqOY7
+NA,Tonight  A Lonely Century,The New Mystikal Troubadours,Blues,2.mp3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,0.66667,3.1,0.99443,NA,NA,NA,NA
+NA,DD Groove,Kevin MacLeod,Blues,3.mp3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.7029,3.5,1.8409,NA,NA,NA,NA
+NA,Slow Burn,Kevin MacLeod,Blues,4.mp3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.7159,5.7,1.4944,NA,NA,NA,NA
+NA,Hustle,Kevin MacLeod,Blues,7.mp3,7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.7764,5.8,1.5492,NA,NA,NA,NA
+NA,Dirt Rhodes,Kevin MacLeod,Blues,8.mp3,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.6193,3.2,1.4757,NA,NA,NA,NA
+NA,Stormy Blues,Arne Bang Huseby,Blues,10.mp3,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.9465,4,1.7638,NA,NA,NA,NA
+NA,Rebel Blues,Sul Rebel,Blues,12.mp3,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.9889,5.5,2.0138,NA,NA,NA,NA
+NA,Fjcb Reddit Gtr Fills Mix,Phoephus,Blues,17.mp3,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2.1602,4.4,1.8974,NA,NA,NA,NA
+NA,Beat The Devil's Tattoo (Live @ KEXP),Black Rebel Motorcycle Club,Blues,18.mp3,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.4491,4.8,1.8135,NA,NA,NA,NA
+NA,Blues Shuffle in A One Take Improv Exercise,Stevie's Amp Shack,Blues,20.mp3,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,2.2236,5.4,2.6331,NA,NA,NA,NA
+NA,My War Blues,Cian Nugent,Blues,21.mp3,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1.4944,6.6,0.96609,NA,NA,NA,NA
+NA,The Holy Feele,The New Mystikal Troubadours,Blues,22.mp3,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.5492,4,1.4142,NA,NA,NA,NA
+NA,Workin Boy Blues,Bombay Laughing Club,Blues,24.mp3,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.8529,5.3,1.7029,NA,NA,NA,NA
+NA,RL Got Soul,The Jon Spencer Blues Explosion,Blues,25.mp3,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,2.6687,7.9,0.73786,NA,NA,NA,NA
+NA,All is Right,Short Hand,Blues,31.mp3,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.6193,4.7,1.6364,NA,NA,NA,NA
+NA,Princely & Comely,The Agrarians,Blues,32.mp3,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.567,4.2,1.8738,NA,NA,NA,NA
+NA,Apoli,Olima Anditi,Blues,35.mp3,35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,2.2236,4.8,2.2509,NA,NA,NA,NA
+NA,You And Me Baby (Holding On) (Live @ KEXP),Chuck Prophet,Blues,40.mp3,40,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.6193,4.6,1.3499,NA,NA,NA,NA
+NA,Like Nothing Else,The New Mystikal Troubadours,Blues,41.mp3,41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.3703,4.3,1.7029,NA,NA,NA,NA
+NA,A Cinematic Influence,The New Mystikal Troubadours,Blues,42.mp3,42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,2.0248,6.1,1.6633,NA,NA,NA,NA
+NA,PuritansToo,The Agrarians,Blues,43.mp3,43,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.5811,6.7,2.4518,NA,NA,NA,NA
+NA,Walkabout,Digital Primitives,Blues,44.mp3,44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.6633,3.9,1.1005,NA,NA,NA,NA
+NA,Untitled 05,Mountain Cult,Blues,45.mp3,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.1,1.4491,5.1,2.5582,NA,NA,NA,NA
+NA,Shes Too Fat,Little Howlin' Wolf,Blues,46.mp3,46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.8257,5.3,2.0575,NA,NA,NA,NA
+NA,Boulevard St Germain,Jahzzar,Blues,47.mp3,47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.6465,4.4,1.8379,NA,NA,NA,NA
+NA,Our Sacred Cues,The New Mystikal Troubadours,Blues,48.mp3,48,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.8738,4.5,1.9579,NA,NA,NA,NA
+NA,Our Nights on the Turnpike,The Agrarians,Blues,49.mp3,49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.2517,3.9,1.3703,NA,NA,NA,NA
+NA,Railroad's Whiskey Co,Jahzzar,Blues,50.mp3,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.1353,3.6,1.075,NA,NA,NA,NA
+NA,Fathers Tell Yr Sons,The Agrarians,Blues,51.mp3,51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,1.0328,3.6,1.1738,NA,NA,NA,NA
+NA,Recognize An Hour Divine,The Agrarians,Blues,52.mp3,52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.912,4.6,1.1738,NA,NA,NA,NA
+NA,Owed to Old Poets  Our Role in the Play,The New Mystikal Troubadours,Blues,53.mp3,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.792,4.3,2.4967,NA,NA,NA,NA
+NA,The Truth Is What We Make of It,The Agrarians,Blues,59.mp3,59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,2.0248,5.3,1.8288,NA,NA,NA,NA
+NA,Heat Index,Michael Chapman & The Woodpiles,Blues,60.mp3,60,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,0.5164,4.3,1.567,NA,NA,NA,NA
+NA,Baby's Got Morphine Eyes,Zombie Prom Queen,Blues,62.mp3,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.2867,6.2,0.91894,NA,NA,NA,NA
+NA,Jungle Love Revisited,The New Mystikal Troubadours,Blues,64.mp3,64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.6633,3.6,1.3499,NA,NA,NA,NA
+NA,Gadzooks,The Jon Spencer Blues Explosion,Blues,67.mp3,67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,1.4757,7.2,0.78881,NA,NA,NA,NA
+NA,Sixes & Sevens (Excerpt),Cian Nugent,Blues,68.mp3,68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.7288,3.8,1.3984,NA,NA,NA,NA
+NA,Keep Your Lamp Trimmed And Burning [traditional],Billy Childish,Blues,69.mp3,69,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,0.8756,3.2,0.91894,NA,NA,NA,NA
+NA,Deportee,Michael Chapman & The Woodpiles,Blues,70.mp3,70,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.5055,4.4,1.7764,NA,NA,NA,NA
+NA,The Daily Dose Age,The Agrarians,Blues,71.mp3,71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,0.82327,5.9,1.5951,NA,NA,NA,NA
+NA,Bona Fide,Crete Boom,Blues,72.mp3,72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,2.1187,6.7,1.8288,NA,NA,NA,NA
+NA,Lalalala,Solo Dja Kabako,Blues,73.mp3,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.8379,5.8,1.8135,NA,NA,NA,NA
+NA,Interview,Mount Carmel,Blues,74.mp3,74,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.4944,3,1.7638,NA,NA,NA,NA
+NA,Untitled 07,Mountain Cult,Blues,76.mp3,76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,1.9322,4.3,1.4944,NA,NA,NA,NA
+NA,Yr Blues Tripping,The Rope River Blues Band,Blues,77.mp3,77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,1.1972,4.2,2.1499,NA,NA,NA,NA
+NA,How to go to sleep,Mr. & Mrs. Smith,Blues,78.mp3,78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,2.0248,3.4,1.6465,NA,NA,NA,NA
+NA,No Holiday,Digital Primitives,Blues,79.mp3,79,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.4337,5.5,2.2236,NA,NA,NA,NA
+NA,The Newest Fashions,The Agrarians,Blues,81.mp3,81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.792,6.1,2.0248,NA,NA,NA,NA
+NA,Goin On,Mr. & Mrs. Smith,Blues,82.mp3,82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.7159,2.9,1.5239,NA,NA,NA,NA
+NA,If You Love Me Like You Say,Paul  Wine  Jones,Blues,83.mp3,83,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.8135,6.1,1.1005,NA,NA,NA,NA
+NA,Out Of Our Heads,Lantern,Blues,85.mp3,85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,1.6865,7.1,1.1972,NA,NA,NA,NA
+NA,Eat at Joe's,Eat at Joe's,Blues,86.mp3,86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.2649,5.4,1.7127,NA,NA,NA,NA
+NA,Untitled 04,Mountain Cult,Blues,87.mp3,87,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,0.96609,5.3,2.5841,NA,NA,NA,NA
+NA,We All Fall Down,Lorenzo's Music,Blues,88.mp3,88,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.354,6.7,1.8288,NA,NA,NA,NA
+NA,Common Experiences Man,The New Mystikal Troubadours,Blues,89.mp3,89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.1499,4.5,2.4152,NA,NA,NA,NA
+NA,Wood For The Trees,Fit and the Conniptions,Blues,90.mp3,90,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.8135,4.3,1.8288,NA,NA,NA,NA
+NA,One,Sim Cain,Blues,91.mp3,91,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.2693,4.5,1.5092,NA,NA,NA,NA
+NA,Further,The Rope River Blues Band,Blues,92.mp3,92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.8886,5.8,2.2998,NA,NA,NA,NA
+NA,Waitin' (Live @ KEXP),Betsy Olson,Blues,93.mp3,93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1.8257,7.2,0.78881,NA,NA,NA,NA
+NA,Aces and Twos (Live @ KEXP),The Devil Makes Three,Blues,96.mp3,96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,1.3703,6.8,1.3984,NA,NA,NA,NA
+NA,The Index of Memory,The Agrarians,Blues,98.mp3,98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,1.4944,4.3,1.8288,NA,NA,NA,NA
+NA,Chamber Blues' Tidal Band Presents,The New Mystikal Troubadours,Blues,99.mp3,99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,2.079,4.3,1.9465,NA,NA,NA,NA
+NA,Least the Ocean is Wet,Mr. & Mrs. Smith,Blues,101.mp3,101,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,0.91894,3.4,1.7127,NA,NA,NA,NA
+NA,Untitled 01,Mountain Cult,Blues,103.mp3,103,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.8886,5.6,2.0111,NA,NA,NA,NA
+NA,Ben Jonson's Blues,The Rope River Blues Band,Blues,104.mp3,104,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.8886,6.1,1.912,NA,NA,NA,NA
+NA,We Three Kings,Tarred Brigade,Blues,107.mp3,107,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.2509,6,2.1082,NA,NA,NA,NA
+NA,Giving Away The Bride (Live @ KEXP),Califone,Blues,108.mp3,108,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,2.044,4.5,1.7159,NA,NA,NA,NA
+NA,You're the Wave  Wander!,The Agrarians,Blues,109.mp3,109,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.5811,4.4,2.3664,NA,NA,NA,NA
+NA,(Come On and Feele) The Faith in Me,The Agrarians,Blues,110.mp3,110,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,0.91894,4.4,1.8974,NA,NA,NA,NA
+NA,Big Mamou,Barrence Whitfield and The Savages,Blues,112.mp3,112,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.6465,6.8,1.0328,NA,NA,NA,NA
+NA,(Shuffling Towards) Art's Holy Shrine,The New Mystikal Troubadours,Blues,113.mp3,113,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,0.91894,5.4,1.3499,NA,NA,NA,NA
+NA,Inne (Live @ KEXP),Vieux Farka Touré,Blues,114.mp3,114,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,0.94868,4.8,0.78881,NA,NA,NA,NA
+NA,Bip Bop Bip,Barrence Whitfield and The Savages,Blues,115.mp3,115,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.8,1.2293,8.4,0.69921,NA,NA,NA,NA
+NA,Queen of Loneliness,Delta Dreambox,Blues,117.mp3,117,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.8257,3.9,1.5239,NA,NA,NA,NA
+NA,America,Cooper-Moore & Assif Tsahar,Blues,118.mp3,118,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.9551,4.9,2.0248,NA,NA,NA,NA
+NA,The not so flashy Exit,Mr. & Mrs. Smith,Blues,121.mp3,121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.5951,3.1,0.8756,NA,NA,NA,NA
+NA,The Attack of Ev'ry Time,The Agrarians,Blues,122.mp3,122,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.9551,5.5,2.0138,NA,NA,NA,NA
+NA,Awei Womei (Live @ KEXP),Vieux Farka Touré,Blues,123.mp3,123,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,1.5492,6.1,1.6633,NA,NA,NA,NA
+NA,The Banks of Eternity,The Agrarians,Blues,124.mp3,124,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,0.78881,3.7,1.3375,NA,NA,NA,NA
+NA,Songtress' Sweet Song,The Agrarians,Blues,125.mp3,125,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.3984,4.5,1.9579,NA,NA,NA,NA
+NA,Le petit jardin (with Les Gauchers Orchestra),Lee Maddeford,Classical,126.mp3,126,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.4491,5.1,1.7288,NA,NA,NA,NA
+NA,Strides,Jared C. Balogh,Classical,130.mp3,130,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.3984,3.3,1.4944,NA,NA,NA,NA
+NA,Wonderland (Instrumental),Dexter Britain,Classical,131.mp3,131,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.7288,6.1,1.1005,NA,NA,NA,NA
+NA,Aleph,Ophir Ilzetzki,Classical,133.mp3,133,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.2,1.2293,2.8,2.0976,NA,NA,NA,NA
+NA,O Solitude (H,Jody Pou,Classical,135.mp3,135,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.5092,3.7,2.3594,NA,NA,NA,NA
+NA,I,Aaron Dunn-Sonatina No. 1 in C Major,Classical,137.mp3,137,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.3984,4.3,1.767,NA,NA,NA,NA
+NA,Encounters With Abusive Men,Silver Process,Classical,138.mp3,138,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.4,0.96609,3.8,2.7809,NA,NA,NA,NA
+NA,Shaking Off The Rust,Jared C. Balogh,Classical,140.mp3,140,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,2.1213,4.2,1.5492,NA,NA,NA,NA
+NA,Carosello,Circus Marcus-Aux puces nº2,Classical,142.mp3,142,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.8135,4.6,1.8974,NA,NA,NA,NA
+NA,Aux puces nº5,Circus Marcus,Classical,143.mp3,143,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.5239,4,1.8257,NA,NA,NA,NA
+NA,Nine,Marcel Pequel,Classical,146.mp3,146,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,2.0138,2.4,1.8974,NA,NA,NA,NA
+NA,Bending Light Infinity version,krackatoa,Classical,148.mp3,148,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2.1602,4.7,1.2517,NA,NA,NA,NA
+NA,Bow to Your Neighbor (Excerpt),Steven Arntson,Classical,150.mp3,150,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,2.319,5,2.582,NA,NA,NA,NA
+NA,Pacifico,James Beaudreau,Classical,151.mp3,151,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.354,4,2.0548,NA,NA,NA,NA
+NA,Ouverture,Lee Maddeford,Classical,154.mp3,154,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,1.9692,4.2,1.7512,NA,NA,NA,NA
+NA,Cyprus,Jared C. Balogh,Classical,155.mp3,155,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,0.96609,3.6,2.0656,NA,NA,NA,NA
+NA,Wheel of fortune (with Les Gauchers Orchestra),Lee Maddeford,Classical,156.mp3,156,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,0.48305,6.4,1.2649,NA,NA,NA,NA
+NA,5 00 AM,Peter Rudenko,Classical,158.mp3,158,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.5055,2.1,0.73786,NA,NA,NA,NA
+NA,Awaken From A Nightmare,Silver Process,Classical,159.mp3,159,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,1.912,3.8,2.6998,NA,NA,NA,NA
+NA,Suite for Violin 9 Hora vivace,Advent Chamber Orchestra-Bughici,Classical,160.mp3,160,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.6499,3.5,2.2236,NA,NA,NA,NA
+NA,O Fortuna,MIT Concert Choir,Classical,161.mp3,161,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,2.0138,6.3,1.2517,NA,NA,NA,NA
+NA,Caught In A Realm,Jared C. Balogh,Classical,163.mp3,163,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.4337,3.6,1.3499,NA,NA,NA,NA
+NA,Row Night,Silver Process-Skid,Classical,164.mp3,164,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,2.079,4.1,1.792,NA,NA,NA,NA
+NA,Stop It (Instrumental),Dexter Britain,Classical,166.mp3,166,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.1353,3.1,1.5239,NA,NA,NA,NA
+NA,Les chaises Louis XVI,Circus Marcus-Aux puces nº1,Classical,167.mp3,167,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.7029,2.7,1.4181,NA,NA,NA,NA
+NA,Funeral March for Brass,Kevin MacLeod,Classical,168.mp3,168,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.6465,3.3,1.4181,NA,NA,NA,NA
+NA,Black Coffee,Jody Pou,Classical,169.mp3,169,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,1.1353,2.4,0.84327,NA,NA,NA,NA
+NA,La Flor de Olmedo,Circus Marcus-Aux puces nº6,Classical,170.mp3,170,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.5635,3,1.633,NA,NA,NA,NA
+NA,Ease,Andrew Bisset-Cultural Dis,Classical,173.mp3,173,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.2,1.2293,4.6,1.7764,NA,NA,NA,NA
+NA,War And Peace,Jamie Evans,Classical,174.mp3,174,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.4757,4,1.6997,NA,NA,NA,NA
+NA,Don't You Want to Go to Heaven Uncle Sam,Steven Arntson,Classical,175.mp3,175,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.6364,3.7,1.4181,NA,NA,NA,NA
+NA,Six,Marcel Pequel,Classical,176.mp3,176,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.6633,2.4,1.7127,NA,NA,NA,NA
+NA,The Time To Run,Dexter Britain,Classical,179.mp3,179,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2.0548,5.2,2.1499,NA,NA,NA,NA
+NA,Bridging and Mending,Jared C. Balogh,Classical,180.mp3,180,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.4491,4.8,1.9889,NA,NA,NA,NA
+NA,A Muddy Heart,Steven Arntson,Classical,181.mp3,181,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.5,0.97183,3.7,2.2136,NA,NA,NA,NA
+NA,Dedicated to Elizabeth Cotten (with Matt Bauder),Jessica Pavone,Classical,182.mp3,182,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,2.1628,2.2,0.91894,NA,NA,NA,NA
+NA,imagined version),Fabrizio Paterlini-Forever blue (March Rosetta re,Classical,184.mp3,184,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.1738,3.6,1.9551,NA,NA,NA,NA
+NA,Nights Tale,Dexter Britain,Classical,186.mp3,186,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.6997,3.7,1.767,NA,NA,NA,NA
+NA,Tom's Lullaby (with Les Gauchers Orchestra),Lee Maddeford,Classical,188.mp3,188,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.6364,4,1.633,NA,NA,NA,NA
+NA,Wild Rover with Bellevue Chamber Chorus,Sláinte,Classical,189.mp3,189,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.1,1.6633,6.5,1.7159,NA,NA,NA,NA
+NA,Variatio 14 a 2 Clav,Kimiko Ishizaka,Classical,191.mp3,191,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,2.0028,5.1,2.1318,NA,NA,NA,NA
+NA,Lucky,Steven Arntson,Classical,192.mp3,192,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,0.56765,5.8,0.63246,NA,NA,NA,NA
+NA,Hands,Matthew Mehlan,Classical,193.mp3,193,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1.4142,4.1,1.912,NA,NA,NA,NA
+NA,Golden Alley Reprise,Rebecca Foon,Classical,195.mp3,195,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,0.82327,4.2,2.044,NA,NA,NA,NA
+NA,Borodin Butterfly,Lanark,Classical,196.mp3,196,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.7159,4.3,1.767,NA,NA,NA,NA
+NA,Eight,Marcel Pequel,Classical,197.mp3,197,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,1.3984,2.2,1.4757,NA,NA,NA,NA
+NA,Red Danube,Lee Rosevere,Classical,198.mp3,198,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.8886,1.9,0.73786,NA,NA,NA,NA
+NA,Spring Mvt 1 Allegro,John Harrison with the Wichita State University Chamber Players,Classical,199.mp3,199,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.3375,5.3,1.567,NA,NA,NA,NA
+NA,God Rest Ye Merry Gentlemen,Chance's end,Classical,202.mp3,202,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.4757,4.6,1.4298,NA,NA,NA,NA
+NA,WATCHING IT SNOW WHILE THINKING OF YOU,Jared C. Balogh,Classical,203.mp3,203,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.7512,3.5,2.0683,NA,NA,NA,NA
+NA,Sinfonia di Violoncello e AM RadioFinitura,Joe Merolla,Classical,204.mp3,204,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.2,1.0328,3.6,2.1187,NA,NA,NA,NA
+NA,Prelude No,Chris Zabriskie,Classical,205.mp3,205,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,2.1213,3,1.4907,NA,NA,NA,NA
+NA,Unisons,Ophir Ilzetzki,Classical,206.mp3,206,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,1.075,2.3,0.82327,NA,NA,NA,NA
+NA,Notebook Reading,Dexter Britain,Classical,207.mp3,207,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.5734,4.8,2.201,NA,NA,NA,NA
+NA,Leave Well Enough Alone (Instrumental),Dexter Britain,Classical,208.mp3,208,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.0801,4.8,2.1499,NA,NA,NA,NA
+NA,Amazing Grace 2011,Kevin MacLeod,Classical,209.mp3,209,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.9551,3.1,0.99443,NA,NA,NA,NA
+NA,Suite for Violin 8 Ardeleneascamoderato,Advent Chamber Orchestra-Bughici,Classical,210.mp3,210,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,2.273,4.2,2.2509,NA,NA,NA,NA
+NA,My Song For January,Dexter Britain,Classical,212.mp3,212,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,1.8974,4.6,1.6465,NA,NA,NA,NA
+NA,Graveyard Illusions,Silver Process,Classical,213.mp3,213,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.5,1.7159,2.6,1.5776,NA,NA,NA,NA
+NA,Blue sox,Arnaud Roy,Classical,214.mp3,214,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,1.6633,3.6,2.0656,NA,NA,NA,NA
+NA,In A Party Watching A Party,Silver Process,Classical,215.mp3,215,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,1.2649,3.2,2.201,NA,NA,NA,NA
+NA,On Things Invisible to the Eye (Act II),Lloyd Rodgers,Classical,216.mp3,216,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.1595,4.5,1.6499,NA,NA,NA,NA
+NA,the piano of the old seaman,Evgeny Grinko,Classical,218.mp3,218,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.5635,2.9,1.4491,NA,NA,NA,NA
+NA,The Book of Floating,The New Heaven and The New Earth,Classical,219.mp3,219,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.5492,2.4,0.84327,NA,NA,NA,NA
+NA,Jazz Band With Jazz Hands,Silver Process,Classical,220.mp3,220,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.075,4.1,1.5951,NA,NA,NA,NA
+NA,First,The New York Underground Orchestra (Conducted By Assif Tsahar),Classical,221.mp3,221,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.8974,4.3,1.6364,NA,NA,NA,NA
+NA,ha'zman,Ophir Ilzetzki,Classical,222.mp3,222,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,2.4967,3.8,1.3984,NA,NA,NA,NA
+NA,One,Marcel Pequel,Classical,223.mp3,223,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,2.273,2.2,1.1353,NA,NA,NA,NA
+NA,jingles interludes et dimanche minuit,LE CHEVALIER DE RINCHY,Classical,224.mp3,224,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.8886,5.5,1.5811,NA,NA,NA,NA
+NA,The Anticipation Of Spring,Jared C. Balogh,Classical,225.mp3,225,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.6865,3.7,1.9465,NA,NA,NA,NA
+NA,A TOUGH DECISION,Jared C. Balogh,Classical,226.mp3,226,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.633,4.9,1.792,NA,NA,NA,NA
+NA,SELF REFLECT,Jared C. Balogh,Classical,227.mp3,227,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.5811,3.1,1.1972,NA,NA,NA,NA
+NA,Woody Allen,Evgeny Grinko,Classical,228.mp3,228,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.3333,3.5,1.7159,NA,NA,NA,NA
+NA,Slow Motion Strut Version Two,Dexter Britain,Classical,229.mp3,229,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.5492,4.8,1.6865,NA,NA,NA,NA
+NA,Train,Dexter Britain,Classical,231.mp3,231,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.7764,4.1,1.5239,NA,NA,NA,NA
+NA,Serenade for Strings Op22 in E Major larghetto,Advent Chamber Orchestra-Dvorak,Classical,232.mp3,232,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,1.0593,2.5,1.8409,NA,NA,NA,NA
+NA,HURRY UP AND RAIN,Jared C. Balogh,Classical,233.mp3,233,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.9003,4.7,1.567,NA,NA,NA,NA
+NA,Dedicated to Leroy Jenkins,Jessica Pavone,Classical,234.mp3,234,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.5239,3.5,2.5055,NA,NA,NA,NA
+NA,Flight of the Moth,Steven Arntson,Classical,235.mp3,235,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.4181,3,1.1547,NA,NA,NA,NA
+NA,Transmutation Of Metals,Chuck Bettis & Joe Merolla,Classical,236.mp3,236,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.4,1.2649,2.5,1.5811,NA,NA,NA,NA
+NA,Birth,Steven Arntson,Classical,237.mp3,237,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.3703,4.2,2.201,NA,NA,NA,NA
+NA,BWV 846,Kevin MacLeod-J. S. Bach  Prelude in C,Classical,238.mp3,238,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.8974,3,2.0548,NA,NA,NA,NA
+NA,Seven,Marcel Pequel,Classical,239.mp3,239,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.6364,2.3,2.0028,NA,NA,NA,NA
+NA,After The Week I've Had,Dexter Britain,Classical,241.mp3,241,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.4298,4.1,2.2336,NA,NA,NA,NA
+NA,Silent Night,IKOS David Clifton with the choirs of Peterborough Cathedral,Classical,242.mp3,242,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.6364,3.5,1.8409,NA,NA,NA,NA
+NA,Ave formosissima — O Fortuna (reprise),MIT Concert Choir,Classical,243.mp3,243,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,2.2828,7.2,1.4757,NA,NA,NA,NA
+NA,Valediction,Steven Arntson,Classical,244.mp3,244,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.7512,4.3,1.4181,NA,NA,NA,NA
+NA,Entrance to the Queen of Sheba for Two Oboes Strings and Continuo allegro,Advent Chamber Orchestra-Handel,Classical,245.mp3,245,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.6633,4.2,2.0976,NA,NA,NA,NA
+NA,Traumatic Childhood,Silver Process,Classical,246.mp3,246,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,2.1499,4.9,2.8067,NA,NA,NA,NA
+NA,Micro Composition 10,Jared C. Balogh,Classical,247.mp3,247,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.354,3.9,1.2867,NA,NA,NA,NA
+NA,Chasing Time,Dexter Britain,Classical,248.mp3,248,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.0593,3.4,1.6465,NA,NA,NA,NA
+NA,Winter Mvt 3 Allegro,John Harrison with the Wichita State University Chamber Players,Classical,250.mp3,250,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.4298,3.4,2.1705,NA,NA,NA,NA
+NA,Dance!,The Rope River Blues Band,Country,253.mp3,253,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.5,0.84984,6.6,1.6465,NA,NA,NA,NA
+NA,Original Rags (1900 piano roll),Scott Joplin,Country,254.mp3,254,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.4,1.1738,5.3,2.406,NA,NA,NA,NA
+NA,Wine Wine Wine,Stompin' Riff Raffs,Country,257.mp3,257,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,1.792,7.6,1.5776,NA,NA,NA,NA
+NA,ChainSmoke Days,Mr. & Mrs. Smith,Country,258.mp3,258,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.4181,4.3,1.4181,NA,NA,NA,NA
+NA,Detroit,The Moaners,Country,260.mp3,260,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.7127,5.3,1.4944,NA,NA,NA,NA
+NA,The Entertainer (1902 piano roll),Scott Joplin,Country,262.mp3,262,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,0.99443,5.6,1.5776,NA,NA,NA,NA
+NA,Emmet's Cuckoo Song,George P. Watson,Country,265.mp3,265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,0.69921,4.5,1.7795,NA,NA,NA,NA
+NA,SOLO ACOUSTIC GUITAR,Jason Shaw,Country,266.mp3,266,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.044,3.6,1.5776,NA,NA,NA,NA
+NA,Swan Song,Paper Navy,Country,269.mp3,269,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.044,4.3,1.8288,NA,NA,NA,NA
+NA,I Do Like To Be Beside The Seaside (1907 piano roll),John H. Glover-Kind,Country,270.mp3,270,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.1,1.7288,6.1,1.7288,NA,NA,NA,NA
+NA,JENNY'S THEME,Jason Shaw,Country,272.mp3,272,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.9551,5.9,1.912,NA,NA,NA,NA
+NA,Western Country,Shake That Little Foot,Country,273.mp3,273,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.2,0.91894,5.4,1.8379,NA,NA,NA,NA
+NA,Mochi,LE CLUB DES CHATS,Country,274.mp3,274,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,2.1082,7.7,0.94868,NA,NA,NA,NA
+NA,Rednecks with White Faces,Caühaüs,Country,275.mp3,275,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.0801,5.3,1.4944,NA,NA,NA,NA
+NA,Blackberry Hedge,Secret Jane,Country,276.mp3,276,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.767,6.1,1.5951,NA,NA,NA,NA
+NA,ACOUSTIC BLUES,Jason Shaw,Country,278.mp3,278,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.7288,5.5,2.1731,NA,NA,NA,NA
+NA,Party,Krestovsky,Country,279.mp3,279,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.4944,3.6,1.2649,NA,NA,NA,NA
+NA,Upper Room,Flying Cloud,Country,280.mp3,280,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.1595,4.2,1.7512,NA,NA,NA,NA
+NA,The Smiler (1907Zonophone Concert Band),Percy Wenrich,Country,281.mp3,281,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1.2472,5.4,2.4129,NA,NA,NA,NA
+NA,Have You Seen It,Dr. Frankenstein,Country,282.mp3,282,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,0.78881,3.2,1.7512,NA,NA,NA,NA
+NA,Last Dance,Jahzzar,Country,284.mp3,284,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.2293,4.4,1.5776,NA,NA,NA,NA
+NA,Death Valley Waltz,Lucas Gonze,Country,285.mp3,285,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.4491,3.5,1.0801,NA,NA,NA,NA
+NA,Z. Brewster,Scott Joplin-Maple Leaf Rag (1899 Geisz version),Country,286.mp3,286,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,1.9692,5.7,2.0575,NA,NA,NA,NA
+NA,WORDS,Jason Shaw,Country,288.mp3,288,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.8738,3.5,1.9579,NA,NA,NA,NA
+NA,Pine Apple Rag (1908 piano roll),Scott Joplin,Country,289.mp3,289,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.0593,5.7,2.0028,NA,NA,NA,NA
+NA,The City,Abe Sada,Country,290.mp3,290,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.9,1.6633,2.1,0.8756,NA,NA,NA,NA
+NA,Horror Show,Stompin' Riff Raffs,Country,292.mp3,292,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.4,0.96609,7.3,1.0593,NA,NA,NA,NA
+NA,Ayahuasca,Party People in a Can,Country,293.mp3,293,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,2.044,6.3,1.7029,NA,NA,NA,NA
+NA,Chinese Blues (1916 George Gershwin piano roll),Moore and Gardner,Country,294.mp3,294,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,2.0138,5.5,2.2236,NA,NA,NA,NA
+NA,RUNNING WATERS,Jason Shaw,Country,299.mp3,299,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.3375,2.8,1.9889,NA,NA,NA,NA
+NA,Never Turnin' Back (Live @ KEXP),Shane Tutmarc,Country,301.mp3,301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.8288,3.2,1.5492,NA,NA,NA,NA
+NA,Danger Behind The Wheel (Live @ KEXP),Rose's Pawn Shop,Country,302.mp3,302,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1.5635,6.6,2.319,NA,NA,NA,NA
+NA,American English,The Canoes,Country,303.mp3,303,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.8379,7,1.1547,NA,NA,NA,NA
+NA,Frog Legs Rag (1906 piano roll),James Scott,Country,306.mp3,306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.8288,5.7,2.3118,NA,NA,NA,NA
+NA,Turkey in the Straw,Shake That Little Foot,Country,307.mp3,307,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,1.4757,6.1,1.1005,NA,NA,NA,NA
+NA,WHEELS,Jason Shaw,Country,308.mp3,308,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,0.96609,4.3,1.767,NA,NA,NA,NA
+NA,Theme for  The Mad Thinker,Dr. Frankenstein,Country,309.mp3,309,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.8738,5.3,1.767,NA,NA,NA,NA
+NA,Neighborhood Funeral Dress,Mr. & Mrs. Smith,Country,310.mp3,310,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,1.0593,2.1,0.8756,NA,NA,NA,NA
+NA,Wild Guide,Austin Leonard Jones,Country,312.mp3,312,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.6865,4.6,1.3499,NA,NA,NA,NA
+NA,TRAVEL LIGHT,Jason Shaw,Country,313.mp3,313,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.3375,3.6,1.4298,NA,NA,NA,NA
+NA,Scotland the Brave,Shake That Little Foot,Country,315.mp3,315,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.5,0.84984,6.4,1.5055,NA,NA,NA,NA
+NA,Rose Water,Waylon Thornton,Country,317.mp3,317,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.4181,6.1,1.792,NA,NA,NA,NA
+NA,Emergency Exit,Dr. Frankenstein,Country,318.mp3,318,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.5239,5.9,1.792,NA,NA,NA,NA
+NA,Frog In The Well,Lucas Gonze,Country,319.mp3,319,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,0.84327,4.5,2.0683,NA,NA,NA,NA
+NA,99 Chicks,Stompin' Riff Raffs,Country,320.mp3,320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.5055,7.4,1.3499,NA,NA,NA,NA
+NA,Necrófago,Dr. Frankenstein,Country,321.mp3,321,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1.8257,7.3,0.82327,NA,NA,NA,NA
+NA,Pilgim Song (Live @ KEXP),The Water Tower Bucket Boys,Country,323.mp3,323,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7273,1.5551,4.8182,1.4709,NA,NA,NA,NA
+NA,SERENITY,Jason Shaw,Country,324.mp3,324,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.4944,3.3,1.767,NA,NA,NA,NA
+NA,THINGAMAJIG,Jason Shaw,Country,326.mp3,326,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.2,1.3166,5.4,1.6465,NA,NA,NA,NA
+NA,Imna 'Merican,U Can Unlearn Guitar,Country,328.mp3,328,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,2.201,5.2,1.6865,NA,NA,NA,NA
+NA,Cars and Parties,Edith Frost,Country,329.mp3,329,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,2.3476,3.3,2.406,NA,NA,NA,NA
+NA,Loco Two,Vonn Krapp Family,Country,330.mp3,330,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,1.9692,5.9,2.4244,NA,NA,NA,NA
+NA,FUNKY JUNKY,Jason Shaw,Country,332.mp3,332,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,0.8756,5.5,1.1785,NA,NA,NA,NA
+NA,Live at the Winston,Thee Irma & Louise,Country,333.mp3,333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.792,6.7,1.6364,NA,NA,NA,NA
+NA,Childhood Days,Universal Jubilaires,Country,334.mp3,334,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,2.0248,5.9,1.7288,NA,NA,NA,NA
+NA,Help You (Live @ KEXP),Trampled By Turtles,Country,335.mp3,335,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,1.3984,6.8,1.5492,NA,NA,NA,NA
+NA,Rock n Roll McDonald's,The Shut-Ins,Country,336.mp3,336,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.5776,6.1,1.5951,NA,NA,NA,NA
+NA,Southern Gothic,Bureaucratica,Country,338.mp3,338,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.5492,3,0.8165,NA,NA,NA,NA
+NA,ROCKY TOP,Jason Shaw,Country,339.mp3,339,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,1.1972,5.9,1.6633,NA,NA,NA,NA
+NA,30 Days in the Workhouse,Peter Case,Country,340.mp3,340,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,2.0111,3.8,2.4855,NA,NA,NA,NA
+NA,Columbine,Audra Kubat,Country,341.mp3,341,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.7764,3.8,1.8738,NA,NA,NA,NA
+NA,ACOUSTIC MEDITATION,Jason Shaw,Country,342.mp3,342,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,2.2336,4,2.1602,NA,NA,NA,NA
+NA,ONE FINE DAY,Jason Shaw,Country,344.mp3,344,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.6865,4.6,1.8379,NA,NA,NA,NA
+NA,You Shake Me,Stompin' Riff Raffs,Country,345.mp3,345,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.9579,7.2,1.6193,NA,NA,NA,NA
+NA,TENNESEE HAYRIDE,Jason Shaw,Country,346.mp3,346,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.3,1.6364,6.7,1.0593,NA,NA,NA,NA
+NA,I Wish I Was A Headlight,Austin Leonard Jones,Country,348.mp3,348,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.8288,5,1.633,NA,NA,NA,NA
+NA,There Were Some Famous Artists,Jim Long,Country,349.mp3,349,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.9889,4.6,1.7764,NA,NA,NA,NA
+NA,BACK TO THE WOODS,Jason Shaw,Country,350.mp3,350,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.9003,6,2,NA,NA,NA,NA
+NA,Talk About Suffering,Lucas Gonze,Country,352.mp3,352,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.5092,5.5,1.4337,NA,NA,NA,NA
+NA,If Not For Your Sweet Heart,Eric Villa,Country,354.mp3,354,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.3499,7.1,0.99443,NA,NA,NA,NA
+NA,Check Girl,Al Duvall-Stuck On A Hat,Country,355.mp3,355,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.2693,5.1,1.912,NA,NA,NA,NA
+NA,SNAPPY,Jason Shaw,Country,356.mp3,356,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.4298,4.6,1.9551,NA,NA,NA,NA
+NA,Love Song To Little Trees,Bill Crosson,Country,358.mp3,358,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.6865,5.6,1.5055,NA,NA,NA,NA
+NA,Bed,Jahzzar,Country,359.mp3,359,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.7029,2.5,1.1785,NA,NA,NA,NA
+NA,NICE AND EASY,Jason Shaw,Country,360.mp3,360,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.6499,2.5,1.4337,NA,NA,NA,NA
+NA,AUTUMN SUNSET,Jason Shaw,Country,361.mp3,361,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3636,1.6895,2.5455,1.3685,NA,NA,NA,NA
+NA,RIVER MEDITATION,Jason Shaw,Country,362.mp3,362,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,0.8756,4,1.7638,NA,NA,NA,NA
+NA,MOUNTAIN SUN,Jason Shaw,Country,364.mp3,364,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.1785,5.5,1.5092,NA,NA,NA,NA
+NA,Waterbound,Shake That Little Foot,Country,365.mp3,365,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.1,0.8756,6,1.633,NA,NA,NA,NA
+NA,Dirty Fingernails,Golden Boys,Country,366.mp3,366,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.3703,6.9,0.99443,NA,NA,NA,NA
+NA,Mr,Mr. & Mrs. Smith,Country,369.mp3,369,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,0.84327,2.9,0.73786,NA,NA,NA,NA
+NA,Will,Stapleton Brothers-Call of the Whip-Poor,Country,371.mp3,371,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.075,5.2,1.6865,NA,NA,NA,NA
+NA,Gambler's Blues,The Crevulators,Country,374.mp3,374,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.1972,7,1.0541,NA,NA,NA,NA
+NA,Bit a Bullet,Mr. & Mrs. Smith,Country,375.mp3,375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,1.7512,1.9,0.73786,NA,NA,NA,NA
+NA,Night Owl,Broke For Free,Electronic,376.mp3,376,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.1972,5,1.5635,NA,NA,NA,NA
+NA,Deep Sky Blue,Graphiqs Groove,Electronic,378.mp3,378,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.7288,5.5,1.9003,NA,NA,NA,NA
+NA,Chantiers Navals 412,LJ Kruzer,Electronic,379.mp3,379,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,1.1972,1.9,0.99443,NA,NA,NA,NA
+NA,Five Minutes at the Rainforest Cafe,Macaw,Electronic,380.mp3,380,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.1499,5.6,1.3499,NA,NA,NA,NA
+NA,DnB Mix (Germany),Hot Fire-Them Never Love No Bans,Electronic,381.mp3,381,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.1595,6,1.7638,NA,NA,NA,NA
+NA,Neuroleptic trio instrumental 5,Neuroleptic Trio,Electronic,383.mp3,383,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.6465,4.2,2.201,NA,NA,NA,NA
+NA,As Colorful As Ever,Broke For Free,Electronic,386.mp3,386,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.8409,5,1.1547,NA,NA,NA,NA
+NA,Memories Of Thailand (Beat Doctor's 'stuck in Britain' remix),Risey,Electronic,387.mp3,387,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,2.6583,6.2,2.3944,NA,NA,NA,NA
+NA,Midori,Beat Culture,Electronic,390.mp3,390,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,0.63246,5.7,1.0593,NA,NA,NA,NA
+NA,Another Position (original mix),Morphamish,Electronic,391.mp3,391,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,0.99443,5.5,1.6499,NA,NA,NA,NA
+NA,Ode To A Baby Snowstorm,Ghostly Dust Machine,Electronic,392.mp3,392,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.5492,3.4,1.7764,NA,NA,NA,NA
+NA,Spectrum (Subdiffusion Mix),Foniqz,Electronic,395.mp3,395,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,1.4757,6.7,1.3375,NA,NA,NA,NA
+NA,Waking Up (Instrumental),Dexter Britain,Electronic,399.mp3,399,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1.0541,6.7,0.94868,NA,NA,NA,NA
+NA,Run The Tape,Asthmatic Astronaut,Electronic,400.mp3,400,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.1738,5.1,1.792,NA,NA,NA,NA
+NA,Something Elated,Broke For Free,Electronic,401.mp3,401,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.2649,5.5,1.5092,NA,NA,NA,NA
+NA,Flying pea v,Daddy_Scrabble,Electronic,403.mp3,403,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.7512,5.1,1.7288,NA,NA,NA,NA
+NA,Calm The Fuck Down,Broke For Free,Electronic,404.mp3,404,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,1.3984,6.9,1.4491,NA,NA,NA,NA
+NA,My God Those Legs,Smersh,Electronic,406.mp3,406,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,2.3118,5.3,2.2136,NA,NA,NA,NA
+NA,april deegee rmx,Digi G'Alessio-ekiti son feat valeska,Electronic,407.mp3,407,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.7159,4.3,1.767,NA,NA,NA,NA
+NA,snow world under the white moon,EeL,Electronic,408.mp3,408,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,2.1318,6.6,2.5033,NA,NA,NA,NA
+NA,Twinkling,Zero V,Electronic,410.mp3,410,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.792,3.8,2.0976,NA,NA,NA,NA
+NA,Dubsteady,Phoniandflore,Electronic,415.mp3,415,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.9322,6,1.1547,NA,NA,NA,NA
+NA,Please Mind the Dubstep,Bitbasic,Electronic,416.mp3,416,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.6865,5.5,1.8409,NA,NA,NA,NA
+NA,over and under,Antiphon,Electronic,419.mp3,419,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.4907,3.3,2.1108,NA,NA,NA,NA
+NA,90,Casetofoane,Electronic,420.mp3,420,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,1.3499,4.5,1.354,NA,NA,NA,NA
+NA,Moonlight and Roses,Lee Rosevere,Electronic,422.mp3,422,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,2.5841,2.8,1.8135,NA,NA,NA,NA
+NA,My Pretty Looking Clothes,Glass Boy,Electronic,423.mp3,423,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,2.4152,5.2,2.6162,NA,NA,NA,NA
+NA,Whispering Through,Asura,Electronic,426.mp3,426,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.4944,5.3,1.767,NA,NA,NA,NA
+NA,Enthusiast,Tours,Electronic,427.mp3,427,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,0.78881,5.2,1.5492,NA,NA,NA,NA
+NA,Black Gloves,Vitus Von Degen,Electronic,430.mp3,430,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,1.1005,4,2.357,NA,NA,NA,NA
+NA,Dub steps,Dub Terminator,Electronic,431.mp3,431,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,2.0138,6.1,1.8529,NA,NA,NA,NA
+NA,Barbarian,Pierlo,Electronic,432.mp3,432,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.767,5.3,2.1108,NA,NA,NA,NA
+NA,Warm Up Suit,Broke For Free,Electronic,435.mp3,435,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.5951,4.5,1.8409,NA,NA,NA,NA
+NA,raw instrumental pt,Digi G'Alessio,Electronic,436.mp3,436,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.9322,4.3,2.1108,NA,NA,NA,NA
+NA,Night Beach,Psychadelik Pedestrian,Electronic,437.mp3,437,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,2.2136,5.2,1.9322,NA,NA,NA,NA
+NA,Singing Forest,M.W.D.,Electronic,441.mp3,441,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.5951,4.6,1.7764,NA,NA,NA,NA
+NA,Arrogalla remix feat Andrea Congia],Volfoniq-Memori [Amentu Segretu,Electronic,442.mp3,442,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.6499,4.1,1.9692,NA,NA,NA,NA
+NA,People Living And Leaving Big Citys,Augustus Bro & Gallery Six,Electronic,444.mp3,444,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.5,1.2693,2.3,1.1595,NA,NA,NA,NA
+NA,Casual Graphic Designer,Bacalao,Electronic,445.mp3,445,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.7127,2.4,1.075,NA,NA,NA,NA
+NA,Destination,Anitek,Electronic,448.mp3,448,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3333,2.1213,6.5556,2.1279,NA,NA,NA,NA
+NA,simple,Orbique,Electronic,449.mp3,449,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.9322,3.6,2.1705,NA,NA,NA,NA
+NA,Grief And Sleep,Ghosts,Electronic,450.mp3,450,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.8257,4.1,2.1318,NA,NA,NA,NA
+NA,Smoothest Runes,Thick Business,Electronic,451.mp3,451,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.8974,4.9,1.3703,NA,NA,NA,NA
+NA,La (instrumental),YACHT-Shangri,Electronic,452.mp3,452,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,0.91894,5.6,1.6465,NA,NA,NA,NA
+NA,Only Instrumental,Broke For Free,Electronic,453.mp3,453,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.2649,4.6,1.8974,NA,NA,NA,NA
+NA,Steppin,Wake,Electronic,454.mp3,454,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.5492,5,2.582,NA,NA,NA,NA
+NA,Crack in Time,Stickfigure,Electronic,456.mp3,456,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.3,1.3375,6.1,2.846,NA,NA,NA,NA
+NA,Night Fly,Nameless Dancers,Electronic,458.mp3,458,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.8856,3.4,1.7764,NA,NA,NA,NA
+NA,Cryin in the Delta Wind,Mutherpluckin' B,Electronic,459.mp3,459,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.2867,6.3,0.82327,NA,NA,NA,NA
+NA,Inner Demon,Flex Vector,Electronic,460.mp3,460,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.8135,3.8,2.201,NA,NA,NA,NA
+NA,Ocean Breeze,Sycamore Drive,Electronic,461.mp3,461,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.6465,4.8,1.4757,NA,NA,NA,NA
+NA,Ironic (feat,Morsa-Erotic Post,Electronic,462.mp3,462,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,2.1705,5.8,1.7512,NA,NA,NA,NA
+NA,Overlay Star,Lomovolokno,Electronic,463.mp3,463,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.767,5,2.1602,NA,NA,NA,NA
+NA,Ropes,Plurabelle,Electronic,464.mp3,464,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.5776,5.1,1.2867,NA,NA,NA,NA
+NA,Forever falling up,Fanas,Electronic,466.mp3,466,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.2867,6.6,1.6465,NA,NA,NA,NA
+NA,Runtime error,Peter Sharp,Electronic,467.mp3,467,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,1.2293,5.7,2.3118,NA,NA,NA,NA
+NA,Hiss,Zero V,Electronic,468.mp3,468,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,2.2706,3.6,1.7127,NA,NA,NA,NA
+NA,Knock Knock,Broke For Free,Electronic,469.mp3,469,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,0.94868,5.1,1.6633,NA,NA,NA,NA
+NA,I,Listen With Sarah,Electronic,472.mp3,472,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.6193,6.5,2.2236,NA,NA,NA,NA
+NA,SmurfPulser,Illocanblo,Electronic,473.mp3,473,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,2.3214,7.1,1.2867,NA,NA,NA,NA
+NA,Ooo,Morphamish + MAKO,Electronic,475.mp3,475,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2.1082,5.6,2.1187,NA,NA,NA,NA
+NA,Initiation,Zero V,Electronic,478.mp3,478,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,1.1353,2.8,1.2293,NA,NA,NA,NA
+NA,Not Found (Invisible),Jiony,Electronic,479.mp3,479,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,0.94868,4.5,1.9003,NA,NA,NA,NA
+NA,entry,Lee Rosevere-Chapter Seven - Re,Electronic,480.mp3,480,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,1.1972,2.7,1.7029,NA,NA,NA,NA
+NA,Seeing The Future,Dexter Britain,Electronic,481.mp3,481,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,2.0575,3.4,1.6465,NA,NA,NA,NA
+NA,Got Me (club mix),Beat Doctor,Electronic,484.mp3,484,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.354,6.4,1.3499,NA,NA,NA,NA
+NA,Coral Reef,Psychadelik Pedestrian,Electronic,485.mp3,485,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.4944,2.6,0.96609,NA,NA,NA,NA
+NA,D2,Foniqz,Electronic,487.mp3,487,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.2517,4.5,1.6499,NA,NA,NA,NA
+NA,Cold Summer Landscape,Blear Moon,Electronic,488.mp3,488,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.3499,1.6,0.84327,NA,NA,NA,NA
+NA,Chico (The Way Out),Apes on Tapes,Electronic,490.mp3,490,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.767,3.9,1.5951,NA,NA,NA,NA
+NA,summer,General Fuzz,Electronic,493.mp3,493,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.1972,3.7,1.6364,NA,NA,NA,NA
+NA,Garden Theme,Deltason,Electronic,494.mp3,494,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,1.792,3.7,1.7029,NA,NA,NA,NA
+NA,OutroDub,Adubter,Electronic,496.mp3,496,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.912,4.7,2.2632,NA,NA,NA,NA
+NA,The Beat Goes On,Flex Vector,Electronic,497.mp3,497,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,2.3594,6.2,1.6193,NA,NA,NA,NA
+NA,Drown,Altered Carbon,Electronic,498.mp3,498,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,1.5492,2.9,1.9692,NA,NA,NA,NA
+NA,Bayview,Isle,Electronic,499.mp3,499,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.6465,3.6,1.6465,NA,NA,NA,NA
+NA,القذافي الأمازون الحرس,Music For Your Plants,Electronic,500.mp3,500,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.7512,6,1.8856,NA,NA,NA,NA
+NA,Behind The Seas,Possimiste,Folk,501.mp3,501,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,0.96609,2.5,1.1785,NA,NA,NA,NA
+NA,Capulet,The Rope River Blues Band,Folk,502.mp3,502,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.7127,4.8,1.8738,NA,NA,NA,NA
+NA,Big Gay Water Fight,Plushgoolash,Folk,503.mp3,503,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.075,5.8,1.7512,NA,NA,NA,NA
+NA,Rebetikaud,Sam Shalabi,Folk,504.mp3,504,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,0.8165,4.8,0.91894,NA,NA,NA,NA
+NA,Mε Πιάνουνε Ζαλάδες,Caligine,Folk,507.mp3,507,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.2293,4.9,1.1972,NA,NA,NA,NA
+NA,Rast'e Tou Teke,Costa and Nero,Folk,512.mp3,512,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,2.0111,5.1,1.792,NA,NA,NA,NA
+NA,Dream (instrumental),Chan Wai Fat,Folk,513.mp3,513,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.5492,3.1,1.7288,NA,NA,NA,NA
+NA,SIDEWALK,Jason Shaw,Folk,514.mp3,514,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.9889,4.3,1.9465,NA,NA,NA,NA
+NA,MDMA (Pt,Morus Alba,Folk,519.mp3,519,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.8886,6.8,1.9322,NA,NA,NA,NA
+NA,New Rembetika   14,Mike Cooper & Viv Corringham,Folk,522.mp3,522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,0.94868,3.5,2.2236,NA,NA,NA,NA
+NA,Love,The Upsidedown-E,Folk,523.mp3,523,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.9692,5.1,1.792,NA,NA,NA,NA
+NA,Black Eyes,Nettle,Folk,524.mp3,524,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.1547,3.3,1.3375,NA,NA,NA,NA
+NA,(h) Banjo Arba Minch Garden,Cooper-Moore,Folk,525.mp3,525,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.0976,4.3,1.6364,NA,NA,NA,NA
+NA,A Stranger's Map of Texas,Michael Chapman & The Woodpiles,Folk,527.mp3,527,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,2.0575,4,1.7638,NA,NA,NA,NA
+NA,TV Dinner,Hiiragi Fukuda,Folk,529.mp3,529,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.2293,4.7,1.6364,NA,NA,NA,NA
+NA,The Tropical Lounge Prayer Directory,The New Mystikal Troubadours,Folk,530.mp3,530,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.6499,3.3,1.4944,NA,NA,NA,NA
+NA,Sally in the Garden Sifting Sand,Black Twig Pickers and Steve Gunn,Folk,535.mp3,535,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.7795,6.1,2.1318,NA,NA,NA,NA
+NA,Don't You Want to Go to HeavenUncle Sam,Steven Arntson,Folk,536.mp3,536,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,0.84984,5.1,1.4491,NA,NA,NA,NA
+NA,Efoumernam Ena Vradi,Astral Social Club,Folk,537.mp3,537,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,1.8974,5,2.582,NA,NA,NA,NA
+NA,Trouba,Steve Gunn,Folk,540.mp3,540,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.5776,4.1,1.9692,NA,NA,NA,NA
+NA,Day Into Night,Rho,Folk,544.mp3,544,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.8409,4.8,2.2509,NA,NA,NA,NA
+NA,It's all right,Mr. & Mrs. Smith,Folk,547.mp3,547,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,2.201,3.4,1.9551,NA,NA,NA,NA
+NA,Titanic,Michael Chapman & The Woodpiles,Folk,550.mp3,550,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.9692,4.2,1.8738,NA,NA,NA,NA
+NA,Wave Graves,Paneye,Folk,554.mp3,554,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2.4944,2.8,2.3944,NA,NA,NA,NA
+NA,Views of The Holy & Divine,The Agrarians,Folk,555.mp3,555,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.7512,5.2,1.6865,NA,NA,NA,NA
+NA,Life on the Odyssean Wave,Steven Arntson,Folk,556.mp3,556,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.7288,5.6,2.1705,NA,NA,NA,NA
+NA,Vanlig,Jahzzar,Folk,560.mp3,560,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.7127,2.9,1.2867,NA,NA,NA,NA
+NA,La Minor Live at Pacific Parc Vol,La Minor,Folk,561.mp3,561,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.94281,6.9,0.73786,NA,NA,NA,NA
+NA,Sousta Politiki,Amen Dunes,Folk,565.mp3,565,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1.0541,3.1,1.5951,NA,NA,NA,NA
+NA,The Incredible Infection of Unintended Invection,U Can Unlearn Guitar,Folk,568.mp3,568,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,1.4491,5.4,1.5776,NA,NA,NA,NA
+NA,Look inside,Jahzzar,Folk,577.mp3,577,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.354,5.6,1.6465,NA,NA,NA,NA
+NA,The Surveyor,red_robin,Folk,579.mp3,579,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,1.3984,3.1,2.0248,NA,NA,NA,NA
+NA,12 MORNINGS,Jason Shaw,Folk,582.mp3,582,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.7288,3.1,1.4491,NA,NA,NA,NA
+NA,Stin Ypoga,Ignatz,Folk,584.mp3,584,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.4,0.84327,2.5,1.1785,NA,NA,NA,NA
+NA,The Bright New Year (By Bert Jansch),Yair Yona,Folk,585.mp3,585,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.7512,4,1.4907,NA,NA,NA,NA
+NA,Hemoglobin (Live at the Tonic Room),Greg Gibbs,Folk,586.mp3,586,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,0.73786,5.2,1.4757,NA,NA,NA,NA
+NA,Tape Eater,Pietnastka,Folk,592.mp3,592,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.0909,2.2115,5.4545,1.1282,NA,NA,NA,NA
+NA,Di Hei Hei (sung by Po Sun Yi),Chan Wai Fat,Folk,594.mp3,594,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,1.5951,4.2,1.9322,NA,NA,NA,NA
+NA,Joke,Jahzzar,Folk,598.mp3,598,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.075,4,1.6997,NA,NA,NA,NA
+NA,32 Ford,Joe Mazzola,Folk,600.mp3,600,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,2.2111,3.5,1.9003,NA,NA,NA,NA
+NA,Ice Cream,Jahzzar,Folk,606.mp3,606,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.5776,4.1,1.8529,NA,NA,NA,NA
+NA,Adinatisa O Kaymenos,Daniel Padden,Folk,608.mp3,608,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.9889,2.9,1.7288,NA,NA,NA,NA
+NA,Shine,Jahzzar,Folk,610.mp3,610,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.8409,6.3,1.4181,NA,NA,NA,NA
+NA,Car Crash,Jahzzar,Folk,611.mp3,611,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.8135,5.1,1.6633,NA,NA,NA,NA
+NA,Wild Horse of Stony Point,Black Twig Pickers,Folk,612.mp3,612,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,0.5164,5.6,1.2649,NA,NA,NA,NA
+NA,Going to,Jahzzar,Folk,613.mp3,613,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,1.4757,5.2,2.2998,NA,NA,NA,NA
+NA,Talking,Moore & Sons,Folk,615.mp3,615,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,0.8165,3.2,1.8135,NA,NA,NA,NA
+NA,Hot Kettle and a Lonely Gun,Greg Gibbs,Folk,616.mp3,616,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.2472,3.5,1.5092,NA,NA,NA,NA
+NA,A Clean Slate,The Peach Tree,Folk,617.mp3,617,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1.4142,6.5,1.7795,NA,NA,NA,NA
+NA,The Blender is Not Built For That,Carter Thornton,Folk,621.mp3,621,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.1738,2.9,1.2867,NA,NA,NA,NA
+NA,Zoo,Greg Gibbs,Folk,622.mp3,622,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.8856,4.5,2.2236,NA,NA,NA,NA
+NA,Anniversary,Jahzzar,Folk,623.mp3,623,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.6633,3.8,1.7512,NA,NA,NA,NA
+NA,Night Ahead,Moore & Sons,Folk,625.mp3,625,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.2649,3.1,1.5239,NA,NA,NA,NA
+NA,Volksing Ferretismico,Goto80 and the Uwe Schenk Band,Jazz,629.mp3,629,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.6,0.84327,7.4,0.96609,NA,NA,NA,NA
+NA,Lansdowne,WWIII,Jazz,631.mp3,631,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,2.4698,7.6,1.5776,NA,NA,NA,NA
+NA,If I Can't Dance It's Not My Revolution,Quantum Jazz,Jazz,634.mp3,634,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.6193,4.7,2.4518,NA,NA,NA,NA
+NA,The Third Man Theme (Live @ KEXP),Rat City Brass,Jazz,635.mp3,635,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.6,1.075,6.6,0.96609,NA,NA,NA,NA
+NA,It smells like Chamomile Tea,Evgeny Grinko,Jazz,637.mp3,637,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,2.0656,2.2,0.91894,NA,NA,NA,NA
+NA,Indian Summer,Zero V,Jazz,639.mp3,639,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1.1595,6.1,0.99443,NA,NA,NA,NA
+NA,¡Qué Paciencia!,Los Sundayers,Jazz,640.mp3,640,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.8,0.78881,7.6,0.84327,NA,NA,NA,NA
+NA,Thriller Iller,Goto80 and the Uwe Schenk Band,Jazz,643.mp3,643,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.8135,3.5,1.1785,NA,NA,NA,NA
+NA,By the Coast (2004),Antony Raijekov,Jazz,644.mp3,644,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,2.0656,4.3,1.7029,NA,NA,NA,NA
+NA,Mutatis Mutandis,Cosmic Analog Ensemble,Jazz,645.mp3,645,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.767,4.6,2.0111,NA,NA,NA,NA
+NA,Backed Vibes Clean,Kevin MacLeod,Jazz,646.mp3,646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.4757,3.1,1.3703,NA,NA,NA,NA
+NA,Swing 39,Latché Swing,Jazz,648.mp3,648,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,1.6193,5.1,2.1833,NA,NA,NA,NA
+NA,City Tail,Ido Bukelman,Jazz,650.mp3,650,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.7512,6,1.0541,NA,NA,NA,NA
+NA,Don't Rush,Zero V,Jazz,652.mp3,652,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1111,1.6915,2.7778,1.3017,NA,NA,NA,NA
+NA,Jazz Club,Kriss,Jazz,653.mp3,653,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.0801,5.3,2.1108,NA,NA,NA,NA
+NA,asrealasitgets2),Dizzy Banjo-Jazzy Macys (disquiet0038,Jazz,654.mp3,654,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.7764,5.1,1.912,NA,NA,NA,NA
+NA,when,Stephan Siebert,Jazz,656.mp3,656,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,1.5239,2.6,1.1738,NA,NA,NA,NA
+NA,Ponky Fonky Ferret,Goto80 and the Uwe Schenk Band,Jazz,657.mp3,657,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,0.84327,5.1,0.99443,NA,NA,NA,NA
+NA,AcidJazz,Kevin MacLeod,Jazz,658.mp3,658,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.3375,4.4,1.6465,NA,NA,NA,NA
+NA,05 CherryBlossom,Daddy_Scrabble,Jazz,660.mp3,660,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,1.4757,2.1,1.1972,NA,NA,NA,NA
+NA,Are,Oaxacan,Jazz,661.mp3,661,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,1.7512,2.2,1.8135,NA,NA,NA,NA
+NA,Rythme Gitan,Latché Swing,Jazz,662.mp3,662,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,2.2336,5.9,1.2867,NA,NA,NA,NA
+NA,Rail Star Mode,Spartak,Jazz,663.mp3,663,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.567,3.3,1.8886,NA,NA,NA,NA
+NA,Cable Swingin' Ferret,Goto80 and the Uwe Schenk Band,Jazz,664.mp3,664,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.5055,7,1.0541,NA,NA,NA,NA
+NA,Crackle & Pop,Digital Primitives,Jazz,666.mp3,666,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2,5.3,1.4944,NA,NA,NA,NA
+NA,I Can't Behave,Caravan of Thieves,Jazz,667.mp3,667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.2867,4.2,1.4757,NA,NA,NA,NA
+NA,LordDa Mercy,Daddy_Scrabble,Jazz,668.mp3,668,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.7029,5,1.633,NA,NA,NA,NA
+NA,Vibe Ace,Kevin MacLeod,Jazz,672.mp3,672,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1.8288,4.4,2.4585,NA,NA,NA,NA
+NA,Mirando Hacia Atrás,Los Sundayers,Jazz,673.mp3,673,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.4181,6.6,1.3499,NA,NA,NA,NA
+NA,Songe D'Automne,Latché Swing,Jazz,674.mp3,674,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.4,1.4298,6.8,1.3984,NA,NA,NA,NA
+NA,Meetin' & Movin',Merkel & Fritzemeier,Jazz,675.mp3,675,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.3166,5.1,1.5239,NA,NA,NA,NA
+NA,Neuroleptic trio instrumental 6,Neuroleptic Trio,Jazz,677.mp3,677,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.8886,6.5,2.0138,NA,NA,NA,NA
+NA,Devil with the Devil,The Underscore Orkestra,Jazz,681.mp3,681,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.8379,4.9,2.2336,NA,NA,NA,NA
+NA,Resonance,Nature,Jazz,682.mp3,682,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.8165,4.8,1.3984,NA,NA,NA,NA
+NA,magic of fog,Rushus,Jazz,684.mp3,684,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.5239,4.3,1.7029,NA,NA,NA,NA
+NA,George,Curha,Jazz,685.mp3,685,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,2.1187,4.5,2.1213,NA,NA,NA,NA
+NA,is there anybody out there,Sergi Boal,Jazz,686.mp3,686,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.5092,3.4,1.6465,NA,NA,NA,NA
+NA,Balancing Act Chosen Kale Mazel Tov,The Underscore Orkestra,Jazz,687.mp3,687,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.4,0.96609,7.3,1.1595,NA,NA,NA,NA
+NA,Irresistible Yvette (with Les Gauchers Quintet),Lee Maddeford,Jazz,688.mp3,688,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,1.6997,4.3,1.4944,NA,NA,NA,NA
+NA,M (2003),Antony Raijekov-Ambient,Jazz,689.mp3,689,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.5055,3.8,1.7512,NA,NA,NA,NA
+NA,Infant Holy Infant Lowly,Ann Alee,Jazz,690.mp3,690,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,2.1705,2.4,2.1187,NA,NA,NA,NA
+NA,Hard Time Killing Floor Blues,Nature,Jazz,691.mp3,691,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.3375,5,1.6997,NA,NA,NA,NA
+NA,Boudougou,Breuss Arrizabalaga Quintet-Nfamoudou,Jazz,692.mp3,692,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.792,6.9,1.4491,NA,NA,NA,NA
+NA,Track 6,Sunny Jain's Red Baraat Festival,Jazz,695.mp3,695,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,1.8135,5.9,1.6633,NA,NA,NA,NA
+NA,Extraordinary Vibe,Nature,Jazz,696.mp3,696,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,2.3476,5.3,2.3594,NA,NA,NA,NA
+NA,VA Riding (Single Edit),DJ Harrison,Jazz,697.mp3,697,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.1353,4.8,1.6193,NA,NA,NA,NA
+NA,The Keeper (Live @ KEXP),Bonobo,Jazz,698.mp3,698,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.7029,3.9,2.0248,NA,NA,NA,NA
+NA,SYMPHONIC SLIDE,Jared C. Balogh,Jazz,699.mp3,699,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.5811,3.7,1.8886,NA,NA,NA,NA
+NA,Moon Dream (Extended Mix),Sephirot,Jazz,700.mp3,700,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.4298,4.8,1.4757,NA,NA,NA,NA
+NA,Shipyard,WWIII,Jazz,702.mp3,702,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,2.0575,7.5,1.5092,NA,NA,NA,NA
+NA,Arana,Jazz at Mladost Club,Jazz,703.mp3,703,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,1.6997,5.1,2.1318,NA,NA,NA,NA
+NA,Monkeys have arrived,Daddy_Scrabble,Jazz,704.mp3,704,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.4757,4.1,1.1005,NA,NA,NA,NA
+NA,Amari Szi,The Underscore Orkestra,Jazz,706.mp3,706,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,0.94281,5.5,0.84984,NA,NA,NA,NA
+NA,Prelude #2 in A Minor (Chopin),Ben Holmes and Patrick Farrell,Jazz,707.mp3,707,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,1.912,3.2,2.6583,NA,NA,NA,NA
+NA,NO MATH 7,Trans Atlantic Rage,Jazz,708.mp3,708,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,1.6865,3.2,2.2998,NA,NA,NA,NA
+NA,They Enter Through the Ear,Ehran Elisha and Roy Campbell,Jazz,710.mp3,710,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.3703,5.4,1.4298,NA,NA,NA,NA
+NA,parte 1 parte 4,MarginalS,Jazz,713.mp3,713,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,2.1108,4.9,2.2828,NA,NA,NA,NA
+NA,In The Techno Tent,Nature,Jazz,714.mp3,714,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.8,1.8738,4.4,1.8974,NA,NA,NA,NA
+NA,PULLING MYSELF UP THROUGH,Jared C. Balogh,Jazz,715.mp3,715,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.767,2.9,1.4491,NA,NA,NA,NA
+NA,Transparente,Los Sundayers,Jazz,719.mp3,719,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7.2,1.2293,7.1,1.1972,NA,NA,NA,NA
+NA,Orbiting A Distant Planet,Quantum Jazz,Jazz,722.mp3,722,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.66667,5.7,1.6364,NA,NA,NA,NA
+NA,RSJFoundation live at Pacific Parc,Rotterdam Ska Jazz Foundation,Jazz,724.mp3,724,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.1005,6,1.0541,NA,NA,NA,NA
+NA,Trio Take 5,Cooper-Moore,Jazz,726.mp3,726,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.8379,7,2.2608,NA,NA,NA,NA
+NA,THE HAPPIEST LIFE,Jared C. Balogh,Jazz,727.mp3,727,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.9579,4.3,1.767,NA,NA,NA,NA
+NA,Pepper Spray Blues,The Luddites,Jazz,729.mp3,729,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.6499,6.4,1.075,NA,NA,NA,NA
+NA,Mircoobee,Keinzweiter,Jazz,730.mp3,730,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.0801,3.7,1.7029,NA,NA,NA,NA
+NA,Džejbe Džejbe,Neuroleptic Trio,Jazz,731.mp3,731,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.8738,7.3,1.7029,NA,NA,NA,NA
+NA,Sandu,Hugo 'Droopy' Contini,Jazz,734.mp3,734,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1.6364,5.7,1.8886,NA,NA,NA,NA
+NA,Sax,Kevin MacLeod-Night on the Docks,Jazz,736.mp3,736,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,0.94868,2.7,1.4944,NA,NA,NA,NA
+NA,Balcarabic Chicken,Quantum Jazz,Jazz,739.mp3,739,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.9,0.99443,6.2,1.6193,NA,NA,NA,NA
+NA,Futoristico,Gilad Atzmon,Jazz,740.mp3,740,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.4142,3.7,1.8886,NA,NA,NA,NA
+NA,Nitro,OPRACHINA-Oprachina,Jazz,742.mp3,742,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.7159,6.1,2.2336,NA,NA,NA,NA
+NA,Maia,Kreng,Jazz,745.mp3,745,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.6,0.69921,4.2,1.1353,NA,NA,NA,NA
+NA,My Blackbirds Are Bluebirds Now,The Moonlighters,Jazz,746.mp3,746,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,2.0111,3.7,1.8288,NA,NA,NA,NA
+NA,bruch,Stephan Siebert-auf,Jazz,747.mp3,747,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.2867,3.6,1.4298,NA,NA,NA,NA
+NA,Night City,Dirty Beaches,Jazz,748.mp3,748,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.6465,5.1,2.0248,NA,NA,NA,NA
+NA,Street Song  Honga,Ben Holmes and Patrick Farrell,Jazz,750.mp3,750,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,2.0028,5.3,2.1108,NA,NA,NA,NA
+NA,Lips,Plurabelle,Pop,756.mp3,756,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,0.78881,5.9,1.9692,NA,NA,NA,NA
+NA,Ou Inme,ghostandthesong,Pop,758.mp3,758,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.1005,4.8,1.9889,NA,NA,NA,NA
+NA,kirblooey,Windom Earle,Pop,767.mp3,767,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,0.52705,5.2,1.3166,NA,NA,NA,NA
+NA,Chaos,AMANDA,Pop,769.mp3,769,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,2.1602,6.2,1.7512,NA,NA,NA,NA
+NA,The Island Song,U.S. Girls,Pop,773.mp3,773,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,2.1108,4.5,1.8409,NA,NA,NA,NA
+NA,What Circle Where,Macaw,Pop,779.mp3,779,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.4944,2.8,1.5492,NA,NA,NA,NA
+NA,Gay_Bar_videogame,The Wildbunch,Pop,780.mp3,780,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,1.6193,5.8,1.4757,NA,NA,NA,NA
+NA,Le Gateau Au Yaourt,Benjamin Bret,Pop,784.mp3,784,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.4181,4.7,1.767,NA,NA,NA,NA
+NA,Ride The Tide,coverclub.nl-Schotel van de Dag,Pop,787.mp3,787,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1.7029,6.1,1.912,NA,NA,NA,NA
+NA,West Bank,Lezet,Pop,791.mp3,791,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,1.7764,2.7,1.3375,NA,NA,NA,NA
+NA,Window #3,Two Bicycles,Pop,794.mp3,794,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.1353,2.5,1.0801,NA,NA,NA,NA
+NA,Simon Cowell,Ergo Phizmiz,Pop,795.mp3,795,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.1785,2.2,1.0328,NA,NA,NA,NA
+NA,Ghost Transference,Learning Music,Pop,796.mp3,796,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.9692,5.2,2.3944,NA,NA,NA,NA
+NA,Sunday Lovers,Monday Night Fever,Pop,797.mp3,797,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,1.9551,4.9,2.2336,NA,NA,NA,NA
+NA,Waha,Casetofoane,Pop,798.mp3,798,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.8529,6.5,1.5092,NA,NA,NA,NA
+NA,Cinq,Les Oreilles-Quarante,Pop,800.mp3,800,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.9579,4.5,1.7159,NA,NA,NA,NA
+NA,Birthday Cake,Jahzzar,Pop,804.mp3,804,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.8,0.63246,6.9,1.1005,NA,NA,NA,NA
+NA,Son Of A Systems Engineer Manager,Keshco,Pop,805.mp3,805,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.5,1.4337,2.2,1.0328,NA,NA,NA,NA
+NA,Christmas Day With Me,coverclub.nl-Laura Vane & the Vipertones,Pop,806.mp3,806,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.8974,6.4,1.7764,NA,NA,NA,NA
+NA,Ftgrr,Björn & Gorden,Pop,807.mp3,807,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,0.97183,4.8,1.6865,NA,NA,NA,NA
+NA,El barzón,Los Amparito,Pop,810.mp3,810,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,0.69921,6.5,1.6499,NA,NA,NA,NA
+NA,Tourist Shooting Tar Balls,Party People in a Can,Pop,811.mp3,811,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.4491,4.1,1.5239,NA,NA,NA,NA
+NA,re bitterfly,etc.,Pop,814.mp3,814,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.7029,6.1,1.4491,NA,NA,NA,NA
+NA,LightLivid,Plurabelle,Pop,815.mp3,815,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,0.99443,5.5,1.6499,NA,NA,NA,NA
+NA,Tilly's Punctured Romancer,Ergo Phizmiz,Pop,819.mp3,819,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.4944,4,1.9437,NA,NA,NA,NA
+NA,Wallflower,Plurabelle,Pop,820.mp3,820,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.4298,6.4,1.5055,NA,NA,NA,NA
+NA,I Keep My Soul Alive with Different Kinds of Germs,FAVORS,Pop,825.mp3,825,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,1.2517,4.1,2.331,NA,NA,NA,NA
+NA,I'll Keep It With Mine,Dean & Britta,Pop,826.mp3,826,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.4181,4,1.633,NA,NA,NA,NA
+NA,Talk to me,Jahzzar,Pop,829.mp3,829,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.4337,2.3,1.0593,NA,NA,NA,NA
+NA,Enel,Casetofoane,Pop,830.mp3,830,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.5239,5.3,1.567,NA,NA,NA,NA
+NA,Electrohood,Casetofoane,Pop,831.mp3,831,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,0.78881,5.2,1.2293,NA,NA,NA,NA
+NA,Rocky 5000,Casetofoane,Pop,833.mp3,833,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8,1.2293,5,1.633,NA,NA,NA,NA
+NA,Fly By Night,Keshco,Pop,834.mp3,834,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.8886,4.7,1.8288,NA,NA,NA,NA
+NA,Memories Are Made of This,The Scallions,Pop,836.mp3,836,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.7,2.0028,7.1,1.1972,NA,NA,NA,NA
+NA,Fun With Petroleum,Ergo Phizmiz,Pop,839.mp3,839,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.8379,5.7,1.4181,NA,NA,NA,NA
+NA,Nicotine Blues,Kurt Vile,Pop,841.mp3,841,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.2517,4.2,1.4757,NA,NA,NA,NA
+NA,Wizball,Gustav Taxén,Pop,844.mp3,844,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.2649,3.8,2.0976,NA,NA,NA,NA
+NA,The Great Giana Sisters (Piano cover),Christian Vestergaard,Pop,845.mp3,845,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.8257,5.1,1.9692,NA,NA,NA,NA
+NA,High Buildings,Flora,Pop,846.mp3,846,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.1785,6,1.1547,NA,NA,NA,NA
+NA,Eating Baby Lions Nightmare,Shirley and Spinoza-Half,Pop,848.mp3,848,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,1.1595,2.2,1.3984,NA,NA,NA,NA
+NA,Strange Things,Ergo Phizmiz,Pop,850.mp3,850,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7778,0.97183,3.3333,1.9365,NA,NA,NA,NA
+NA,Etam Etamski,How How-Tetrolux,Pop,851.mp3,851,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,1.075,5,0.8165,NA,NA,NA,NA
+NA,Erebus (piano),Andrea Baroni,Pop,852.mp3,852,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,2.1628,4.5,1.5811,NA,NA,NA,NA
+NA,2,The Family Simpson,Pop,855.mp3,855,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,1.4337,2.9,1.9692,NA,NA,NA,NA
+NA,Trick Pony (Live @ KEXP),Charlotte Gainsbourg,Pop,857.mp3,857,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,2.0575,4.9,1.9692,NA,NA,NA,NA
+NA,Alive,Jahzzar,Pop,858.mp3,858,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,2.3214,4.4,2.1187,NA,NA,NA,NA
+NA,Delta,Moonove,Pop,859.mp3,859,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,2.1318,3.6,2.1187,NA,NA,NA,NA
+NA,Señor Bomba,MrJuan,Pop,860.mp3,860,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.3375,6.6,0.96609,NA,NA,NA,NA
+NA,The End of Time,Computer Magic,Pop,863.mp3,863,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1.0541,6.4,1.1738,NA,NA,NA,NA
+NA,Polaroid,Jahzzar,Pop,864.mp3,864,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.1005,5.7,1.1595,NA,NA,NA,NA
+NA,Basket Ball Get Your Groove Back (Live @ KEXP),Deerhoof,Pop,866.mp3,866,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.6633,5.8,1.2293,NA,NA,NA,NA
+NA,Saudades,Duda Nunes,Pop,867.mp3,867,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,2.1213,5.8,1.9322,NA,NA,NA,NA
+NA,cuts&bruises,Plurabelle,Pop,869.mp3,869,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.1,2.0248,2.6,1.7764,NA,NA,NA,NA
+NA,Ticking Away,Cranston,Pop,872.mp3,872,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.9003,3.4,1.7127,NA,NA,NA,NA
+NA,Summer Song (Instrumental),YACHT,Pop,873.mp3,873,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,0.8165,6.8,1.0328,NA,NA,NA,NA
+NA,Kopeika,et_,Rock,876.mp3,876,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.767,6.3,2.3118,NA,NA,NA,NA
+NA,Stance Gives You Balance,Hogan Grip,Rock,880.mp3,880,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.7512,4.9,2.2336,NA,NA,NA,NA
+NA,The last ones,Jahzzar,Rock,882.mp3,882,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.5492,5.3,1.767,NA,NA,NA,NA
+NA,Happening for Lulu,Kraus,Rock,887.mp3,887,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.5055,5.1,1.7288,NA,NA,NA,NA
+NA,The Beach! The Beach!,Holy Coast,Rock,890.mp3,890,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.767,3.6,1.6465,NA,NA,NA,NA
+NA,Jupiter The Blue,Gillicuddy,Rock,891.mp3,891,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.0801,3.4,1.5055,NA,NA,NA,NA
+NA,North Sea Radio,Paneye,Rock,892.mp3,892,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,1.1972,3.9,2.1318,NA,NA,NA,NA
+NA,Blackroad,Tyrannic Toy,Rock,893.mp3,893,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,2.1628,7.3,1.9465,NA,NA,NA,NA
+NA,arriba,reed blue & exteenager,Rock,897.mp3,897,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.3,1.4181,4.9,1.4491,NA,NA,NA,NA
+NA,No,Room For A Ghost,Rock,898.mp3,898,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,2.0138,6.4,2.0111,NA,NA,NA,NA
+NA,One Man And His Piano,Linus Akesson,Rock,899.mp3,899,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1.6364,5.3,1.8886,NA,NA,NA,NA
+NA,Naramiddu poita (feat,Arrogalla remixes Dadub,Rock,902.mp3,902,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.6364,7,0.8165,NA,NA,NA,NA
+NA,Wild Eyes (live @ WFMU),Vivian Girls,Rock,903.mp3,903,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,1.2649,5.9,1.1972,NA,NA,NA,NA
+NA,Something In the Woods,krackatoa,Rock,904.mp3,904,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.8135,5.7,1.2517,NA,NA,NA,NA
+NA,You Can't Have It   Shinjuku Birdwalk,Karen Cooper Complex,Rock,908.mp3,908,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.7288,5.5,1.1785,NA,NA,NA,NA
+NA,Exotica,Juanitos,Rock,909.mp3,909,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,2.3214,6,2,NA,NA,NA,NA
+NA,Utopia (instrumental),YACHT,Rock,910.mp3,910,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.8379,7,1.633,NA,NA,NA,NA
+NA,Jungle Law,Original Innocence,Rock,911.mp3,911,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.5635,7.1,1.2867,NA,NA,NA,NA
+NA,Untitled 06,Mountain Cult,Rock,913.mp3,913,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,1.6364,4.8,2.044,NA,NA,NA,NA
+NA,Everything Is Changing,Noi,Rock,915.mp3,915,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.2,1.6193,5,2,NA,NA,NA,NA
+NA,Sambarama,Juanitos,Rock,921.mp3,921,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.3703,5.9,1.1972,NA,NA,NA,NA
+NA,Strange Italian Song,Juanitos,Rock,924.mp3,924,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2,1.4757,5.4,1.8974,NA,NA,NA,NA
+NA,Flying Alaska V,Everlone,Rock,926.mp3,926,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.0801,4,1.6997,NA,NA,NA,NA
+NA,the  13 O' Clock in the Morning,Waiters,Rock,928.mp3,928,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,1.8856,5,2.0548,NA,NA,NA,NA
+NA,Mickey Maos,Halloween,Rock,931.mp3,931,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5,1.8409,6.3,2.3118,NA,NA,NA,NA
+NA,Crowning Of A Heart (Live @ KEXP),…And You Will Know Us By The Trail Of Dead,Rock,932.mp3,932,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.9,1.8529,4.5,1.4337,NA,NA,NA,NA
+NA,Thrashing In The Unknown,Milk Music,Rock,938.mp3,938,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.2,1.3984,7.3,0.82327,NA,NA,NA,NA
+NA,You should go on,Richard There,Rock,939.mp3,939,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,1.1595,6.2,1.4757,NA,NA,NA,NA
+NA,Get My Fix (Morphamish Mix),Morphamish+ Tekkerz,Rock,941.mp3,941,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.792,7.2,1.0328,NA,NA,NA,NA
+NA,Leelo (Part 1),The Ghost Of 29 Megacycles,Rock,945.mp3,945,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,1.5492,2.3,1.4181,NA,NA,NA,NA
+NA,Monday at 12,Glass Boy,Rock,952.mp3,952,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,1.4181,4.2,2.2509,NA,NA,NA,NA
+NA,Bruce Lee (acoustic Jam),Doron Deutsch,Rock,954.mp3,954,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.0801,5.1,1.6633,NA,NA,NA,NA
+NA,Blind Eyes,Everlone,Rock,955.mp3,955,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.6,0.84327,3.8,1.4757,NA,NA,NA,NA
+NA,Indian Summer,end's not near,Rock,956.mp3,956,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.4,0.96609,4.5,1.0801,NA,NA,NA,NA
+NA,boss A,un automne à Lob-Nor,Rock,957.mp3,957,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.7,1.6364,2.8,1.1353,NA,NA,NA,NA
+NA,(Untitled 1),Trailblazer,Rock,958.mp3,958,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.1,1.912,5.5,1.9579,NA,NA,NA,NA
+NA,Union Square,James Beaudreau,Rock,961.mp3,961,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.5,1.2693,5.6,0.84327,NA,NA,NA,NA
+NA,Rotting Heights,Ice Age,Rock,962.mp3,962,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,1.5776,7.4,0.96609,NA,NA,NA,NA
+NA,Driftin' Around,J.Walker & The Crossguards,Rock,964.mp3,964,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1.5635,7.6,0.96609,NA,NA,NA,NA
+NA,I Had A Dream,Daniel Johnston,Rock,967.mp3,967,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.4,2.2706,2.8,2.201,NA,NA,NA,NA
+NA,Bar Trombone,Abe Sada-Black,Rock,968.mp3,968,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,1.8135,3.8,2.2509,NA,NA,NA,NA
+NA,The Pharaos' Theme,Pharaos,Rock,970.mp3,970,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.6465,6.6,1.6465,NA,NA,NA,NA
+NA,Swagg's & Elliot,Mount Carmel,Rock,973.mp3,973,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.6,2.2211,6.5,1.9003,NA,NA,NA,NA
+NA,Merry Christmas,Glass Boy,Rock,976.mp3,976,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.2867,6.2,1.1353,NA,NA,NA,NA
+NA,Bottums Up,Morphamish,Rock,981.mp3,981,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.6,1.5776,6.7,1.8886,NA,NA,NA,NA
+NA,Tripped & Fell In Love (instrumental),YACHT,Rock,983.mp3,983,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.3,1.3375,4.8,2.3476,NA,NA,NA,NA
+NA,Zebra (Live @ KEXP),Beach House,Rock,985.mp3,985,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.2867,3.9,1.912,NA,NA,NA,NA
+NA,Girl,Suicide,Rock,986.mp3,986,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4.5,2.0683,5.8,1.0328,NA,NA,NA,NA
+NA,Hit and Run,Jack Ruby,Rock,987.mp3,987,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.6,1.6465,6.3,1.7029,NA,NA,NA,NA
+NA,The Pull,Bluebrain,Rock,988.mp3,988,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.5951,5.4,1.2649,NA,NA,NA,NA
+NA,piste quatre,Vespre,Rock,989.mp3,989,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.4,1.6465,6.3,2.1108,NA,NA,NA,NA
+NA,El Tranvía,Jenifer Avila,Rock,990.mp3,990,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.1,1.5951,6,1.6997,NA,NA,NA,NA
+NA,Stance Gives You Power,Hogan Grip,Rock,993.mp3,993,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.8,1.2293,4.4,1.2649,NA,NA,NA,NA
+NA,Engine #3 (Morphamish Remix),Morphamish remixes Full Blush,Rock,994.mp3,994,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.3,1.6364,6.6,1.8379,NA,NA,NA,NA
+NA,Honte De Toi,Benjamin Bret,Rock,995.mp3,995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.4,0.96609,4.7,1.3375,NA,NA,NA,NA
+NA,Fireworks,Jahzzar,Rock,996.mp3,996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.767,6,1.6997,NA,NA,NA,NA
+NA,Monster On Campus,Halloween,Rock,997.mp3,997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.7,1.767,6.4,2.2211,NA,NA,NA,NA
+NA,So Easy,Jahzzar,Rock,999.mp3,999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.9,1.6633,4.1,2.4244,NA,NA,NA,NA
+NA,Single,Republic Of Lights-Got You Surrounded,Rock,1000.mp3,1000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.8889,2.0883,7.2222,1.0929,NA,NA,NA,NA
+Beat the Devil's Tattoo,NA,NA,NA,NA,NA,0.521,0.921,4,E,-2.744,1,major,0.0382,0.42,0.0207,0.175,0.707,NA,NA,NA,NA,96.51,2iPTESocncak2Q45oXzKOG,https://p.scdn.co/mp3-preview/617e3958219b8c6058f2358c23833ac990210f88?cid=71df4006c91441bc8755ad3b5b9bd0d2,spotify:track:2iPTESocncak2Q45oXzKOG
